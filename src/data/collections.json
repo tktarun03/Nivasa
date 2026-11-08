@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "id": "compact-city-homes",
+      "title": "Compact city homes",
+      "summary": "Clever storage and multi-use rooms for studios, 1 BHKs and compact metro flats.",
+      "rule": {
+        "property": [
+          "studio",
+          "1bhk",
+          "compact-urban",
+          "rental"
+        ]
+      }
+    },
+    {
+      "id": "monsoon-ready",
+      "title": "Monsoon-ready interiors",
+      "summary": "Moisture-resistant boards, quick-drying fabrics and ventilation for humid and heavy-rain cities.",
+      "rule": {
+        "climate": [
+          "heavy-monsoon",
+          "humid-coastal"
+        ]
+      }
+    },
+    {
+      "id": "heritage-south",
+      "title": "Heritage South India",
+      "summary": "Chettinad, Kerala and traditional South Indian homes, from thinnai verandahs to Athangudi floors.",
+      "rule": {
+        "style": [
+          "chettinad",
+          "kerala",
+          "traditional-south-indian"
+        ]
+      }
+    },
+    {
+      "id": "kitchens-for-indian-cooking",
+      "title": "Kitchens for Indian cooking",
+      "summary": "Chimneys, tall pantries and tough platforms planned around tadka, tawa and grinding.",
+      "rule": {
+        "category": [
+          "modular-kitchen",
+          "open-kitchen",
+          "utility"
+        ]
+      }
+    },
+    {
+      "id": "calm-bedrooms",
+      "title": "Calm bedrooms",
+      "summary": "Restful bedrooms for every member of the family, from nurseries to parents' rooms.",
+      "rule": {
+        "category": [
+          "master-bedroom",
+          "guest-bedroom",
+          "kids-bedroom",
+          "nursery",
+          "senior-bedroom"
+        ]
+      }
+    },
+    {
+      "id": "sacred-spaces",
+      "title": "Pooja rooms and sacred corners",
+      "summary": "Mandirs, niches and prayer rooms in teak, marble and brass.",
+      "rule": {
+        "category": [
+          "pooja-room"
+        ]
+      }
+    },
+    {
+      "id": "work-and-study",
+      "title": "Work and study",
+      "summary": "Home offices, study rooms and libraries designed for focus.",
+      "rule": {
+        "category": [
+          "home-office",
+          "study-room",
+          "library",
+          "multipurpose-room"
+        ]
+      }
+    },
+    {
+      "id": "outdoor-living",
+      "title": "Balconies, terraces and verandahs",
+      "summary": "Jhoolas, planters and sit-outs that make the most of Indian evenings.",
+      "rule": {
+        "category": [
+          "balcony",
+          "terrace",
+          "verandah"
+        ]
+      }
+    },
+    {
+      "id": "spaces-for-business",
+      "title": "Spaces for business",
+      "summary": "Cafés, clinics, salons, boutiques and offices for Indian businesses.",
+      "rule": {
+        "scope": [
+          "commercial"
+        ]
+      }
+    },
+    {
+      "id": "luxury-edit",
+      "title": "The luxury edit",
+      "summary": "Marble, brass, carved wood and velvet composed with restraint.",
+      "rule": {
+        "budgetTier": [
+          "luxury"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "version": 1,
+  "lastReviewed": "2026-11-08",
+  "note": "Descriptions, pros, cons and maintenance notes are general industry guidance written for this app. Linked standards identify relevant documents; confirm the current edition and the grade your project needs with your supplier and a qualified professional.",
+  "groups": [
+    { "id": "boards", "name": "Boards and engineered panels" },
+    { "id": "surface", "name": "Laminates, veneers and finishes" },
+    { "id": "stone", "name": "Natural and engineered stone" },
+    { "id": "tiles", "name": "Tiles and traditional floors" },
+    { "id": "wood", "name": "Wood and wood flooring" },
+    { "id": "openings", "name": "Aluminium, uPVC and glass" },
+    { "id": "walls", "name": "Paints, plasters and wall finishes" },
+    { "id": "wet", "name": "Waterproofing and wet areas" },
+    { "id": "fittings", "name": "Countertops, hardware and fittings" }
+  ],
+  "materials": [
+    {
+      "id": "plywood", "name": "Plywood (MR / BWR grades)", "group": "boards",
+      "description": "Cross-laminated wood veneers bonded with resin. The everyday workhorse for Indian carpentry: wardrobes, beds, TV units and kitchen carcasses.",
+      "uses": ["Wardrobe and storage carcasses", "Bed and furniture frames", "Kitchen base units (water-resistant grades)"],
+      "pros": ["Strong screw holding", "Repairable on site", "Widely available in many grades"],
+      "cons": ["Quality varies widely between brands", "Interior (MR) grades swell if repeatedly wet", "Heavier than MDF"],
+      "maintenance": "Keep edges sealed with edge-banding or laminate; wipe spills quickly in kitchens and bathrooms.",
+      "cost": "comfort", "standards": ["std-is-303"]
+    },
+    {
+      "id": "marine-plywood", "name": "Marine / BWP plywood", "group": "boards",
+      "description": "Plywood made with boiling-water-proof bonding for repeated wet exposure. Common choice under sinks and in coastal homes.",
+      "uses": ["Sink and dishwasher base units", "Bathroom vanities", "Coastal-city furniture"],
+      "pros": ["Best moisture tolerance among wood panels", "Long service life when edges are sealed"],
+      "cons": ["Higher cost", "Not fire-retardant unless specified", "Fakes and mislabelled boards exist in the market"],
+      "maintenance": "Seal all exposed edges and cut-outs; check the grade marking on every sheet at delivery.",
+      "cost": "premium", "standards": ["std-is-710"]
+    },
+    {
+      "id": "mdf", "name": "MDF (medium-density fibreboard)", "group": "boards",
+      "description": "A dense, smooth board made from fine wood fibres and resin. Machines and paints beautifully for profiled shutters.",
+      "uses": ["Painted or routed shutters", "Wall panelling and fluting", "Decorative cut-work and jaali"],
+      "pros": ["Very smooth for paint and PU finishes", "Machines cleanly into profiles", "Consistent quality"],
+      "cons": ["Swells if water gets in", "Weaker screw holding at edges", "Heavy for large shutters"],
+      "maintenance": "Keep away from standing water; use proper MDF screws and edge sealing.",
+      "cost": "essential", "standards": ["std-is-12406"]
+    },
+    {
+      "id": "hdhmr", "name": "HDHMR board", "group": "boards",
+      "description": "High-density, high-moisture-resistant fibreboard marketed in India as a step up from MDF for kitchens and wardrobes.",
+      "uses": ["Kitchen shutters and carcasses", "Wardrobes in humid cities", "Factory-made modular furniture"],
+      "pros": ["Higher density than standard MDF", "Good moisture resistance for a fibreboard", "Smooth surface for laminates"],
+      "cons": ["Heavy", "Specifications vary by brand", "Still not a replacement for BWP plywood in constantly wet zones"],
+      "maintenance": "Treat like MDF: seal edges and cut-outs; avoid continuous water contact.",
+      "cost": "comfort", "standards": [],
+      "standardsNote": "No specific BIS product standard for HDHMR was confirmed for this catalogue. Ask the manufacturer which standard and test results apply."
+    },
+    {
+      "id": "particle-board", "name": "Particle board", "group": "boards",
+      "description": "Board made from wood chips and resin, mostly used in budget flat-pack furniture.",
+      "uses": ["Budget modular furniture", "Shelving that stays dry"],
+      "pros": ["Low cost", "Flat and stable for laminating"],
+      "cons": ["Poor moisture tolerance", "Low screw holding", "Short life in humid kitchens"],
+      "maintenance": "Keep dry; avoid repeated assembly and disassembly.",
+      "cost": "essential", "standards": ["std-is-3087"]
+    },
+    {
+      "id": "blockboard", "name": "Blockboard", "group": "boards",
+      "description": "A core of solid wood strips sandwiched between veneers. Light and stiff over long spans.",
+      "uses": ["Long shelves and bookcases", "Doors and long wardrobe shutters", "Table tops"],
+      "pros": ["Resists sagging over long spans", "Lighter than plywood of the same thickness"],
+      "cons": ["Voids in low-quality cores", "Edges need careful finishing"],
+      "maintenance": "Check for core gaps before buying; edge-band properly.",
+      "cost": "comfort", "standards": ["std-is-1659"]
+    },
+    {
+      "id": "laminate", "name": "Decorative laminates (HPL)", "group": "surface",
+      "description": "Thin, hard-wearing sheets pressed onto boards. Thousands of colours, woodgrains, stones and textures.",
+      "uses": ["Wardrobe and kitchen shutters", "Furniture surfaces", "Wall panelling"],
+      "pros": ["Scratch and stain resistant", "Very wide design range", "Easy to clean"],
+      "cons": ["Visible dark edge lines on some grades", "Cannot be re-polished", "Repairs need panel replacement"],
+      "maintenance": "Wipe with a damp cloth and mild soap; avoid abrasive pads.",
+      "cost": "essential", "standards": ["std-is-2046"]
+    },
+    {
+      "id": "veneer", "name": "Natural wood veneer", "group": "surface",
+      "description": "Thin slices of real timber pressed onto boards and finished with PU or melamine polish.",
+      "uses": ["Living-room panelling", "Premium wardrobes", "Doors and TV units"],
+      "pros": ["Authentic grain at lower cost than solid wood", "Can be book-matched", "Re-polishable"],
+      "cons": ["Fades in direct sun", "Finish quality depends on the polisher", "Needs care in kitchens"],
+      "maintenance": "Shield from harsh sunlight; dust with a soft cloth; re-polish every few years if worn.",
+      "cost": "premium", "standards": []
+    },
+    {
+      "id": "acrylic-finish", "name": "Acrylic finish", "group": "surface",
+      "description": "High-gloss or matte acrylic sheets laminated onto boards for a seamless, mirror-like modern look.",
+      "uses": ["Modern kitchen shutters", "Minimalist wardrobes"],
+      "pros": ["Deep gloss", "Uniform colour", "Moisture resistant face"],
+      "cons": ["Shows fingerprints and fine scratches", "Higher cost than laminate"],
+      "maintenance": "Use microfibre cloth; avoid ammonia cleaners and scouring pads.",
+      "cost": "premium", "standards": []
+    },
+    {
+      "id": "pu-finish", "name": "PU paint and polish", "group": "surface",
+      "description": "Polyurethane coatings sprayed on MDF or veneer for duco-style colour or clear, durable wood finishes.",
+      "uses": ["Painted shutters", "Veneer protection", "Furniture refinishing"],
+      "pros": ["Any colour, any sheen", "Durable when well applied", "Repairable"],
+      "cons": ["Needs dust-free spraying", "Strong fumes during application", "Skilled labour needed"],
+      "maintenance": "Clean with soft cloth; touch-ups need the original painter or colour code.",
+      "cost": "premium", "standards": []
+    },
+    {
+      "id": "granite", "name": "Granite", "group": "stone",
+      "description": "Hard Indian natural stone, the classic kitchen platform material across the country.",
+      "uses": ["Kitchen countertops", "Staircase treads", "Thresholds and sills"],
+      "pros": ["Very hard and heat tolerant", "Good value", "Large range of Indian colours"],
+      "cons": ["Joints visible on long runs", "Some light varieties absorb stains", "Heavy"],
+      "maintenance": "Seal porous varieties; wipe oil and turmeric spills promptly.",
+      "cost": "comfort", "standards": ["std-is-14223-1"]
+    },
+    {
+      "id": "quartz", "name": "Engineered quartz", "group": "stone",
+      "description": "Crushed quartz bound with resin into slabs with consistent colour and low porosity.",
+      "uses": ["Kitchen countertops", "Vanity tops", "Islands"],
+      "pros": ["Non-porous and stain resistant", "Consistent patterns", "No sealing needed"],
+      "cons": ["Can scorch with very hot pans", "May discolour in strong sunlight", "Higher cost than granite"],
+      "maintenance": "Use trivets for hot vessels; clean with mild soap.",
+      "cost": "premium", "standards": [],
+      "standardsNote": "Product standard not confirmed for this catalogue; ask the manufacturer for test certificates. Fabrication dust needs proper wet-cutting controls."
+    },
+    {
+      "id": "marble", "name": "Indian marble", "group": "stone",
+      "description": "Classic Makrana-style whites, Udaipur greens and Ambaji varieties for floors, temples and feature walls.",
+      "uses": ["Living and dining floors", "Pooja rooms", "Feature walls"],
+      "pros": ["Cool underfoot", "Timeless look", "Re-polishable"],
+      "cons": ["Etches with lemon, vinegar and some cleaners", "Stains if unsealed", "Needs skilled laying"],
+      "maintenance": "Use pH-neutral cleaners; re-polish periodically; avoid acidic spills.",
+      "cost": "premium", "standards": ["std-is-1130"]
+    },
+    {
+      "id": "sandstone", "name": "Sandstone", "group": "stone",
+      "description": "Warm-toned Rajasthani stone used for jaali, cladding, courtyards and outdoor floors.",
+      "uses": ["Jaali screens", "Courtyard and terrace floors", "Wall cladding"],
+      "pros": ["Beautiful carved detail", "Natural non-slip texture"],
+      "cons": ["Porous and can stain", "Some types weather outdoors"],
+      "maintenance": "Seal against stains; clean with soft brushes, not acid.",
+      "cost": "comfort", "standards": []
+    },
+    {
+      "id": "kota-stone", "name": "Kota stone", "group": "stone",
+      "description": "Dense blue-green or brown limestone from Rajasthan, loved for durable, cool, low-cost floors.",
+      "uses": ["Floors in homes and verandahs", "Utility and service areas", "Staircases"],
+      "pros": ["Very durable", "Affordable", "Can be polished to a soft sheen"],
+      "cons": ["Natural colour variation", "Dull unless polished", "Heavy"],
+      "maintenance": "Mop with plain water or neutral cleaner; re-polish to restore sheen.",
+      "cost": "essential", "standards": []
+    },
+    {
+      "id": "terrazzo", "name": "Terrazzo", "group": "tiles",
+      "description": "Chips of marble or glass set in cement or resin and ground smooth — a Mumbai Art Deco favourite returning in modern homes.",
+      "uses": ["Floors", "Bathroom walls", "Tabletops and vanity tops"],
+      "pros": ["Durable and seamless when cast in situ", "Endless colour mixes", "Low maintenance once sealed"],
+      "cons": ["Skilled labour for cast-in-place work", "Cracks can show if base moves"],
+      "maintenance": "Seal after grinding; clean with neutral cleaners.",
+      "cost": "premium", "standards": []
+    },
+    {
+      "id": "terracotta-tiles", "name": "Terracotta tiles", "group": "tiles",
+      "description": "Fired clay tiles with warm earthy tones, used across Kerala, Goa and Bengal.",
+      "uses": ["Verandah and balcony floors", "Rustic living rooms", "Wall cladding"],
+      "pros": ["Warm, natural look", "Ages gracefully", "Comfortable underfoot"],
+      "cons": ["Porous without sealing", "Edges chip", "Colour varies batch to batch"],
+      "maintenance": "Seal regularly; avoid harsh acids.",
+      "cost": "comfort", "standards": []
+    },
+    {
+      "id": "athangudi-tiles", "name": "Athangudi tiles", "group": "tiles",
+      "description": "Hand-made cement tiles from the Chettinad village of Athangudi, cast on glass and sun-cured, in vivid patterns.",
+      "uses": ["Living and dining floors", "Feature floors in heritage homes", "Café and restaurant floors"],
+      "pros": ["Unique hand-made patterns", "Cool and smooth with age", "Supports local craft"],
+      "cons": ["Slight variation tile to tile", "Needs careful laying and curing", "Can stain before sealing"],
+      "maintenance": "Mop with plain water and a mild coconut-oil based polish as recommended by makers.",
+      "cost": "comfort", "standards": []
+    },
+    {
+      "id": "ceramic-tiles", "name": "Ceramic tiles", "group": "tiles",
+      "description": "Glazed clay tiles for walls and light-traffic floors, especially kitchens and bathrooms.",
+      "uses": ["Bathroom and kitchen walls", "Backsplashes", "Low-traffic floors"],
+      "pros": ["Affordable", "Easy to clean", "Huge design range"],
+      "cons": ["Less durable than vitrified for heavy floor use", "Chips show the clay body"],
+      "maintenance": "Clean grout lines periodically; reseal grout in wet areas.",
+      "cost": "essential", "standards": ["std-is-15622", "std-is-13630"]
+    },
+    {
+      "id": "vitrified-tiles", "name": "Vitrified tiles (GVT, PGVT, double charge)", "group": "tiles",
+      "description": "Dense, low-absorption tiles that are India's most common modern flooring choice.",
+      "uses": ["Living and bedroom floors", "Large-format feature walls", "Commercial floors"],
+      "pros": ["Low water absorption", "Hard wearing", "Large formats mean fewer joints"],
+      "cons": ["Polished finishes can be slippery when wet", "Cold underfoot in winter", "Lippage if badly laid"],
+      "maintenance": "Mop with neutral cleaner; choose matt or anti-skid in wet zones.",
+      "cost": "comfort", "standards": ["std-is-15622", "std-is-13630", "std-is-15477"]
+    },
+    {
+      "id": "red-oxide-floor", "name": "Red oxide (cement) floor", "group": "tiles",
+      "description": "Cement flooring coloured with red oxide pigment and burnished by hand — the cool, glossy floor of old Kerala, Tamil and Bengal homes.",
+      "uses": ["Living rooms and verandahs", "Heritage restoration", "Bedrooms"],
+      "pros": ["Seamless and cool", "Repairable", "Beautiful patina"],
+      "cons": ["Needs experienced masons", "Hairline cracks possible", "Colour varies by batch"],
+      "maintenance": "Mop with plain water; occasional wax polish keeps the sheen.",
+      "cost": "comfort", "standards": []
+    },
+    {
+      "id": "solid-wood", "name": "Solid wood (teak, sheesham, mango)", "group": "wood",
+      "description": "Seasoned hardwood for carved doors, heirloom furniture and pooja mandirs.",
+      "uses": ["Main doors and frames", "Furniture and mandirs", "Carved panels"],
+      "pros": ["Very long life", "Can be carved and refinished", "Rich natural grain"],
+      "cons": ["Moves with humidity if not seasoned", "Termite risk without treatment", "Expensive and sometimes illegally sourced"],
+      "maintenance": "Polish every few years; keep humidity steady; buy seasoned, legally sourced timber.",
+      "cost": "luxury", "standards": []
+    },
+    {
+      "id": "engineered-wood", "name": "Engineered wood flooring", "group": "wood",
+      "description": "A real hardwood top layer over a stable multi-ply base — a wood floor that copes better with Indian humidity.",
+      "uses": ["Bedrooms", "Home theatres", "Living rooms in dry areas"],
+      "pros": ["Real wood surface", "More stable than solid wood planks", "Warm underfoot"],
+      "cons": ["Not for bathrooms or wet kitchens", "Scratches from grit", "Costlier than laminate flooring"],
+      "maintenance": "Dry mop; felt pads under furniture; avoid wet mopping.",
+      "cost": "premium", "standards": []
+    },
+    {
+      "id": "laminate-flooring", "name": "Laminate flooring", "group": "wood",
+      "description": "A photographic wood or stone layer on HDF core, clicked together over an underlay.",
+      "uses": ["Rental and budget bedroom makeovers", "Over existing tiles"],
+      "pros": ["Quick installation", "Low cost", "Wide range of looks"],
+      "cons": ["Swells if water seeps into joints", "Hollow sound without good underlay"],
+      "maintenance": "Dry or damp-mop only; wipe spills immediately.",
+      "cost": "essential", "standards": []
+    },
+    {
+      "id": "cane-rattan", "name": "Cane and rattan", "group": "wood",
+      "description": "Woven natural palm stems used for chairs, shutters, partitions and lamp shades.",
+      "uses": ["Wardrobe shutter inserts", "Chairs and swings", "Lamp shades and partitions"],
+      "pros": ["Light and airy", "Breathable in humid weather", "Supports craft clusters"],
+      "cons": ["Can sag over time", "Attracts dust", "Not for wet areas"],
+      "maintenance": "Vacuum gently; occasional damp wipe; keep out of strong sun.",
+      "cost": "comfort", "standards": []
+    },
+    {
+      "id": "aluminium", "name": "Aluminium sections", "group": "openings",
+      "description": "Extruded aluminium for sliding windows, slim partitions, profile shutters and kitchen frames.",
+      "uses": ["Sliding windows and doors", "Glass partitions", "Profile shutters"],
+      "pros": ["Slim sightlines", "Rust free", "Recyclable"],
+      "cons": ["Conducts heat without thermal breaks", "Cheap sections rattle"],
+      "maintenance": "Clean tracks; lubricate rollers; check gaskets before monsoon.",
+      "cost": "comfort", "standards": []
+    },
+    {
+      "id": "upvc-windows", "name": "uPVC windows and doors", "group": "openings",
+      "description": "Plastic-profile windows with steel reinforcement, popular for sound and dust sealing in Indian cities.",
+      "uses": ["Windows facing traffic", "Balcony doors", "Coastal homes"],
+      "pros": ["Good sealing against dust and noise", "Low maintenance", "No rust or termites"],
+      "cons": ["Bulkier frames than aluminium", "Colour range limited", "Quality depends on profile and fabricator"],
+      "maintenance": "Clean drainage slots before monsoon; keep hardware lubricated.",
+      "cost": "comfort", "standards": ["std-is-17953"]
+    },
+    {
+      "id": "glass", "name": "Glass (toughened and laminated)", "group": "openings",
+      "description": "Safety glass for shower enclosures, partitions, railings and table tops.",
+      "uses": ["Shower partitions", "Railings", "Office partitions"],
+      "pros": ["Opens up small spaces", "Easy to clean", "Safety glass breaks more safely than ordinary glass"],
+      "cons": ["Fingerprints and water marks", "Must be the right safety type for the location"],
+      "maintenance": "Squeegee shower glass after use; check hardware and seals yearly.",
+      "cost": "comfort", "standards": ["std-is-2553-1"]
+    },
+    {
+      "id": "gypsum-board", "name": "Gypsum board false ceilings", "group": "walls",
+      "description": "Gypsum plasterboard on metal framing, the standard for modern false ceilings and cove lighting.",
+      "uses": ["False ceilings", "Cove and profile lighting", "Dry-wall partitions"],
+      "pros": ["Fast to install", "Smooth finish", "Conceals wiring and AC ducts"],
+      "cons": ["Water leaks cause sagging", "Needs moisture-resistant boards in wet areas"],
+      "maintenance": "Fix roof or AC leaks immediately; repaint periodically.",
+      "cost": "essential", "standards": ["std-is-2095"]
+    },
+    {
+      "id": "emulsion-paint", "name": "Acrylic emulsion paint", "group": "walls",
+      "description": "Water-based interior paints in matt to sheen finishes — the default for Indian walls.",
+      "uses": ["Interior walls and ceilings", "Feature colours"],
+      "pros": ["Low odour", "Washable grades available", "Thousands of shades"],
+      "cons": ["Damp walls cause peeling", "Cheap grades chalk and fade"],
+      "maintenance": "Use washable grades in kids' rooms and kitchens; repaint every few years.",
+      "cost": "essential", "standards": ["std-is-15489"]
+    },
+    {
+      "id": "lime-plaster", "name": "Lime plaster and lime wash", "group": "walls",
+      "description": "Traditional breathable plasters and washes with soft, cloudy texture — revived for heritage and eco homes.",
+      "uses": ["Feature walls", "Heritage restoration", "Bathrooms with traditional finishes such as tadelakt-style work"],
+      "pros": ["Breathable", "Naturally mould-resistant", "Beautiful depth"],
+      "cons": ["Skilled application", "Slower to cure", "Marks from hard knocks"],
+      "maintenance": "Re-wash periodically; avoid plastic paints over lime.",
+      "cost": "comfort", "standards": []
+    },
+    {
+      "id": "cement-finish", "name": "Microcement and cement textures", "group": "walls",
+      "description": "Thin cement-based coatings for seamless walls, floors and furniture with an industrial feel.",
+      "uses": ["Feature walls", "Bathroom walls", "Café interiors"],
+      "pros": ["Seamless look", "Works over existing tiles when specified"],
+      "cons": ["Needs sealing", "Hairline cracking possible"],
+      "maintenance": "Reseal as advised; avoid harsh cleaners.",
+      "cost": "premium", "standards": []
+    },
+    {
+      "id": "wallpaper", "name": "Wallpaper and wall coverings", "group": "walls",
+      "description": "Printed paper, vinyl and fabric coverings for feature walls and rentals.",
+      "uses": ["Bedroom feature walls", "Kids' rooms", "Commercial walls"],
+      "pros": ["Quick transformation", "Patterns not possible with paint"],
+      "cons": ["Peels on damp walls", "Seams show if badly hung"],
+      "maintenance": "Choose washable vinyl in high-touch areas; fix damp first.",
+      "cost": "comfort", "standards": []
+    },
+    {
+      "id": "waterproofing", "name": "Waterproofing systems", "group": "wet",
+      "description": "Cementitious, polyurethane or membrane systems under tiles in bathrooms, balconies and terraces.",
+      "uses": ["Bathroom floors and walls", "Balconies and terraces", "Kitchen sink zones"],
+      "pros": ["Prevents seepage into neighbours' ceilings", "Protects structure"],
+      "cons": ["Invisible once tiled, so workmanship is hard to check", "Needs proper curing and testing"],
+      "maintenance": "Ask for a pond (flood) test before tiling; maintain grout and joints.",
+      "cost": "comfort", "standards": [],
+      "standardsNote": "Product standards depend on the system chosen. Ask the applicator for the specification and warranty terms."
+    },
+    {
+      "id": "solid-surface", "name": "Acrylic solid surface", "group": "fittings",
+      "description": "Non-porous acrylic sheet that can be joined invisibly and thermoformed into curves.",
+      "uses": ["Vanity tops with integrated basins", "Reception counters", "Kitchen counters in light-use homes"],
+      "pros": ["Seamless joints", "Repairable", "Non-porous"],
+      "cons": ["Softer than stone", "Heat marks from very hot pans"],
+      "maintenance": "Clean with mild abrasive cream; scratches can be buffed out.",
+      "cost": "premium", "standards": []
+    },
+    {
+      "id": "brass-hardware", "name": "Brass hardware and accents", "group": "fittings",
+      "description": "Handles, hinges, inlays and lamps in brass — a signature of Indian craft from Moradabad and beyond.",
+      "uses": ["Wardrobe and kitchen handles", "Inlay strips in floors", "Lamps and pooja accessories"],
+      "pros": ["Develops warm patina", "Long lasting", "Craft-rich"],
+      "cons": ["Tarnishes unless lacquered", "Costlier than zinc alloys"],
+      "maintenance": "Lacquered brass: damp cloth only. Unlacquered: polish as desired.",
+      "cost": "premium", "standards": []
+    },
+    {
+      "id": "kitchen-hardware", "name": "Hinges, channels and fittings", "group": "fittings",
+      "description": "Soft-close hinges, drawer channels, tandem boxes, corner solutions and lift-up systems for modular storage.",
+      "uses": ["Kitchen drawers and corner units", "Wardrobes", "Lift-up overhead shutters"],
+      "pros": ["Smooth daily use", "Better access to deep storage"],
+      "cons": ["Big quality gap between brands", "Load ratings must match use"],
+      "maintenance": "Clean channels; re-align hinges yearly; avoid overloading drawers.",
+      "cost": "comfort", "standards": []
+    },
+    {
+      "id": "cp-fittings", "name": "Sanitaryware and CP fittings", "group": "fittings",
+      "description": "WCs, basins, mixers, showers and concealed cisterns for Indian bathrooms.",
+      "uses": ["Bathrooms and powder rooms", "Kitchen sink mixers"],
+      "pros": ["Water-saving options", "Wide price range"],
+      "cons": ["Hard water scaling", "Concealed parts need access panels"],
+      "maintenance": "Descale aerators and shower heads; keep access panels for concealed cisterns.",
+      "cost": "comfort", "standards": [],
+      "standardsNote": "Many sanitaryware and fitting standards exist; confirm the applicable ones with your plumber or supplier."
+    },
+    {
+      "id": "flush-doors", "name": "Flush door shutters", "group": "boards",
+      "description": "Factory-made doors with a solid or blockboard core, faced with veneer or laminate.",
+      "uses": ["Bedroom and bathroom doors", "Main doors with cladding"],
+      "pros": ["Flat and stable", "Economical", "Quick to fit"],
+      "cons": ["Bathroom doors need water-resistant cores and edge protection"],
+      "maintenance": "Protect bottom edges in wet areas; adjust hinges as they settle.",
+      "cost": "essential", "standards": ["std-is-2202"]
+    }
+  ]
+}

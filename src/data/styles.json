@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "note": "Styles are design inspiration only. They are not engineering, structural or building-code categories.",
+  "styles": [
+    {
+      "id": "contemporary-indian",
+      "name": "Contemporary Indian",
+      "origin": "Pan-Indian",
+      "kind": "regional",
+      "summary": "Clean modern layouts warmed with Indian craft: handloom textiles, brass, cane and a few carefully chosen heirlooms.",
+      "signature": ["Cane and rattan accents", "Brass hardware and lamps", "Handloom cushions and dhurries", "Warm neutral walls with one craft-led feature"],
+      "materials": ["solid-wood", "veneer", "brass-hardware", "vitrified-tiles"],
+      "climate": "Adapts well to most Indian climates when paired with breathable fabrics.",
+      "palette": { "wall": "#efe6d8", "wall2": "#c98f6b", "floor": "#d9c8ad", "wood": "#9a6b45", "fabric": "#e7dccb", "accent": "#b4643f", "metal": "#b8925a", "light": "#fff4df" }
+    },
+    {
+      "id": "traditional-south-indian",
+      "name": "Traditional South Indian",
+      "origin": "Tamil Nadu, Karnataka, Andhra Pradesh",
+      "kind": "regional",
+      "summary": "Courtyard-centred living, carved wooden doors, red oxide or stone floors and brass lamps that glow at dusk.",
+      "signature": ["Carved teak doors and pillars", "Red oxide or stone floors", "Brass kuthuvilakku lamps", "Built-in thinnai seating"],
+      "materials": ["solid-wood", "red-oxide-floor", "granite", "terracotta-tiles"],
+      "climate": "Courtyards, high ceilings and heavy walls suit hot, humid summers.",
+      "palette": { "wall": "#f1e7d3", "wall2": "#8f3b2a", "floor": "#9c4a35", "wood": "#5e3a22", "fabric": "#d9b77a", "accent": "#c9932f", "metal": "#c9a14a", "light": "#ffe9c2" }
+    },
+    {
+      "id": "chettinad",
+      "name": "Chettinad",
+      "origin": "Karaikudi region, Tamil Nadu",
+      "kind": "regional",
+      "summary": "Grand merchant mansions: patterned Athangudi tiles, egg-plaster walls, Burma teak pillars and saturated earthy colour.",
+      "signature": ["Hand-made Athangudi tiles", "Lime and egg plaster walls", "Teak columns and carved doors", "Ochre, indigo and oxide colours"],
+      "materials": ["athangudi-tiles", "solid-wood", "lime-plaster"],
+      "climate": "Thick walls and tiled floors stay cool through long hot seasons.",
+      "palette": { "wall": "#f3ead8", "wall2": "#c7862f", "floor": "#b3472f", "wood": "#4f3220", "fabric": "#2f4a6d", "accent": "#d29a2e", "metal": "#b98d3e", "light": "#ffe8bf", "pattern": "athangudi" }
+    },
+    {
+      "id": "kerala",
+      "name": "Kerala-inspired",
+      "origin": "Kerala",
+      "kind": "regional",
+      "summary": "Sloping timber ceilings, laterite and lime, polished floors and deep verandahs open to monsoon rain.",
+      "signature": ["Timber ceilings and rafters", "Laterite stone textures", "Polished dark floors", "Wide shaded verandahs"],
+      "materials": ["solid-wood", "terracotta-tiles", "lime-plaster"],
+      "climate": "Built for heavy monsoon: overhangs, ventilated roofs and quick-drying surfaces.",
+      "palette": { "wall": "#ede3d1", "wall2": "#a5532f", "floor": "#3d2c22", "wood": "#6b4428", "fabric": "#e8dcc3", "accent": "#5d7a4a", "metal": "#b28a4c", "light": "#fff0d4", "ceiling": "slats" }
+    },
+    {
+      "id": "rajasthani",
+      "name": "Rajasthani",
+      "origin": "Rajasthan",
+      "kind": "regional",
+      "summary": "Jharokha windows, jaali screens, block prints and mirror-work, layered in sandstone pinks and indigo.",
+      "signature": ["Jharokha and arched niches", "Stone jaali screens", "Block-printed textiles", "Mirror and thikri work"],
+      "materials": ["sandstone", "marble", "solid-wood"],
+      "climate": "Jaali screens and thick stone suit hot, dry climates.",
+      "palette": { "wall": "#f2dfcd", "wall2": "#c8705b", "floor": "#e6d5bd", "wood": "#7a4b2c", "fabric": "#2d4f86", "accent": "#d98a3d", "metal": "#c9a14a", "light": "#ffe7c9", "window": "arch" }
+    },
+    {
+      "id": "coastal-indian",
+      "name": "Coastal Indian",
+      "origin": "Konkan, Goa, Malabar and Coromandel coasts",
+      "kind": "regional",
+      "summary": "Breezy lime-washed rooms, cane and rattan, oxide floors and the blues and whites of the sea.",
+      "signature": ["Lime-washed walls", "Cane and rattan furniture", "Shuttered windows", "Sea blues with terracotta"],
+      "materials": ["lime-plaster", "cane-rattan", "terracotta-tiles", "upvc-windows"],
+      "climate": "Salt-air friendly finishes and cross-ventilation for humid coasts.",
+      "palette": { "wall": "#f4f1ea", "wall2": "#4f7c95", "floor": "#c97b5a", "wood": "#a57f55", "fabric": "#dfe8ea", "accent": "#2f6680", "metal": "#9a9a92", "light": "#f5fbff" }
+    },
+    {
+      "id": "bengali-heritage",
+      "name": "Bengali heritage",
+      "origin": "West Bengal",
+      "kind": "regional",
+      "summary": "North Kolkata houses with red oxide floors, green louvred shutters, tall doors and four-poster beds.",
+      "signature": ["Red oxide floors", "Green louvred shutters", "Tall teak doors", "Kantha and cotton textiles"],
+      "materials": ["red-oxide-floor", "solid-wood", "lime-plaster"],
+      "climate": "Tall ceilings and louvres keep humid rooms airy.",
+      "palette": { "wall": "#f0e8d9", "wall2": "#3f6b4f", "floor": "#9b3528", "wood": "#4b2e1e", "fabric": "#f1e3c8", "accent": "#3f6b4f", "metal": "#9a7a4d", "light": "#fff2d8", "window": "louvre" }
+    },
+    {
+      "id": "modern-urban-indian",
+      "name": "Modern urban Indian",
+      "origin": "Metro apartments",
+      "kind": "regional",
+      "summary": "Smart compact living for city flats: multi-use furniture, hidden storage and calm neutrals with a single bold colour.",
+      "signature": ["Floor-to-ceiling storage", "Multi-use furniture", "Calm neutral base", "One bold accent colour"],
+      "materials": ["hdhmr", "laminate", "vitrified-tiles", "gypsum-board"],
+      "climate": "Pick moisture-resistant boards for humid metros.",
+      "palette": { "wall": "#ece8e1", "wall2": "#5f7470", "floor": "#d8d0c4", "wood": "#b08d68", "fabric": "#d3cbbe", "accent": "#c46a42", "metal": "#8c8a86", "light": "#fbf6ee" }
+    },
+    {
+      "id": "indo-contemporary",
+      "name": "Indo-contemporary",
+      "origin": "Pan-Indian",
+      "kind": "regional",
+      "summary": "A balanced mix of modern forms and Indian motifs: arches, jaali, terrazzo and hand-carved accents.",
+      "signature": ["Soft arches", "Modern jaali", "Terrazzo and stone", "Carved accent pieces"],
+      "materials": ["terrazzo", "veneer", "quartz", "brass-hardware"],
+      "climate": "Versatile across climates.",
+      "palette": { "wall": "#efe7dc", "wall2": "#7c8c6c", "floor": "#e2d7c6", "wood": "#8e6644", "fabric": "#e9dfd0", "accent": "#a8613d", "metal": "#b38d55", "light": "#fff3e0", "window": "arch" }
+    },
+    {
+      "id": "indian-luxury",
+      "name": "Indian luxury",
+      "origin": "Pan-Indian",
+      "kind": "regional",
+      "summary": "Rich marbles, silk, carved wood and brass, composed with restraint so materials take centre stage.",
+      "signature": ["Book-matched marble", "Silk and velvet upholstery", "Brass inlay", "Statement chandeliers"],
+      "materials": ["marble", "veneer", "brass-hardware", "quartz"],
+      "climate": "Marble floors stay cool; add rugs for composite-climate winters.",
+      "palette": { "wall": "#f1ebe2", "wall2": "#2e4a43", "floor": "#efe8de", "wood": "#5b3a28", "fabric": "#355a52", "accent": "#b88a3b", "metal": "#c7a25a", "light": "#fff1d6", "floorPattern": "marble" }
+    },
+    {
+      "id": "minimalist",
+      "name": "Minimalist",
+      "origin": "Global",
+      "kind": "global",
+      "summary": "Fewer, better things: clear surfaces, handle-less storage and light used as a material.",
+      "signature": ["Handle-less storage", "Monochrome palette", "Hidden lighting", "Clear surfaces"],
+      "materials": ["laminate", "acrylic-finish", "vitrified-tiles", "gypsum-board"],
+      "climate": "Easy to keep cool and clean in any climate.",
+      "palette": { "wall": "#f2efea", "wall2": "#dcd6cc", "floor": "#e4ddd2", "wood": "#c4ab8c", "fabric": "#e9e4dc", "accent": "#7d746a", "metal": "#9e9a94", "light": "#ffffff" }
+    },
+    {
+      "id": "japandi",
+      "name": "Japandi",
+      "origin": "Japan and Scandinavia",
+      "kind": "global",
+      "summary": "Low, calm furniture in light oak, slatted screens, paper lamps and quiet earthy textiles.",
+      "signature": ["Light oak and ash", "Slatted wood panels", "Low furniture", "Paper and linen"],
+      "materials": ["engineered-wood", "veneer", "lime-plaster"],
+      "climate": "Natural fibres breathe well in humid months.",
+      "palette": { "wall": "#ece6dc", "wall2": "#cbbca5", "floor": "#d5bf9d", "wood": "#b8936a", "fabric": "#e3dbcf", "accent": "#6f6a5f", "metal": "#3d3a36", "light": "#fff8ec", "panel": "slats" }
+    },
+    {
+      "id": "scandinavian",
+      "name": "Scandinavian",
+      "origin": "Nordic countries",
+      "kind": "global",
+      "summary": "Bright, simple and cosy: white walls, pale woods, soft textiles and plenty of daylight.",
+      "signature": ["White walls", "Pale wood", "Soft wool textiles", "Simple functional forms"],
+      "materials": ["engineered-wood", "laminate", "vitrified-tiles"],
+      "climate": "Swap heavy wool for cotton and linen in hot Indian summers.",
+      "palette": { "wall": "#f6f4f0", "wall2": "#c9d3d0", "floor": "#dcc9ad", "wood": "#c9a882", "fabric": "#e4e1dc", "accent": "#6f8a8b", "metal": "#2e2e2e", "light": "#ffffff" }
+    },
+    {
+      "id": "industrial",
+      "name": "Industrial",
+      "origin": "Global",
+      "kind": "global",
+      "summary": "Exposed brick and concrete, black metal, reclaimed wood and visible services handled neatly.",
+      "signature": ["Exposed brick or concrete", "Black metal frames", "Reclaimed wood", "Exposed conduit and pendants"],
+      "materials": ["aluminium", "solid-wood", "cement-finish"],
+      "climate": "Avoid bare metal near the coast unless it is properly treated.",
+      "palette": { "wall": "#d9d2c8", "wall2": "#8d4f3b", "floor": "#9a958d", "wood": "#6b4b33", "fabric": "#4c4a46", "accent": "#b4643f", "metal": "#2b2a28", "light": "#ffe8c4", "wallPattern": "brick" }
+    },
+    {
+      "id": "art-deco",
+      "name": "Art Deco",
+      "origin": "Global, strongly present in 1930s Mumbai",
+      "kind": "global",
+      "summary": "Geometric arches, fluted surfaces, terrazzo and brass trims — a style with deep roots on Mumbai's Marine Drive.",
+      "signature": ["Geometric arches", "Fluted panels", "Terrazzo floors", "Brass trims and curved furniture"],
+      "materials": ["terrazzo", "veneer", "brass-hardware", "marble"],
+      "climate": "Terrazzo and stone suit warm, humid cities.",
+      "palette": { "wall": "#efe3d2", "wall2": "#2f5b55", "floor": "#e2d2bb", "wood": "#6a3f2b", "fabric": "#2f5b55", "accent": "#c79a4b", "metal": "#c9a14a", "light": "#fff0d3", "window": "arch", "floorPattern": "terrazzo" }
+    },
+    {
+      "id": "bohemian",
+      "name": "Bohemian",
+      "origin": "Global",
+      "kind": "global",
+      "summary": "Collected, layered and relaxed: patterned rugs, plants, macramé and travel finds.",
+      "signature": ["Layered patterns", "Lots of plants", "Floor cushions", "Handmade objects"],
+      "materials": ["cane-rattan", "solid-wood", "terracotta-tiles"],
+      "climate": "Keep layers light and washable in humid regions.",
+      "palette": { "wall": "#f1e4d2", "wall2": "#b6683f", "floor": "#c9a57e", "wood": "#7c5232", "fabric": "#b5533c", "accent": "#5e7d4f", "metal": "#b48a4a", "light": "#ffe9c8", "rug": "kilim" }
+    }
+  ]
+}

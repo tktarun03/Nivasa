@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en-IN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="app-root" content="./" />
+    <meta name="theme-color" content="#faf7f2" />
+    <meta name="description" content="India-first interior design inspiration: Indian rooms, regional styles, materials, standards and indicative budgets in rupees." />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="preload" as="image" href="/assets/illustrations/designs/sea-breeze-living-with-cane-accents-1.svg" />
+    <title>Nivasa — Interiors for Indian homes</title>
+  </head>
+  <body data-page="home">
+    <main id="main" tabindex="-1">
+      <section class="container hero" aria-labelledby="hero-title">
+        <div class="hero__media" data-parallax data-zoom-scroll>
+          <img src="/assets/illustrations/designs/sea-breeze-living-with-cane-accents-1.svg" alt="Illustration of a Mumbai living room with cane seating, a fluted TV wall and linen drapes" width="1200" height="900" fetchpriority="high" />
+          <div class="hero__caption">
+            <p class="eyebrow">Interiors for Indian homes</p>
+            <h1 class="display" id="hero-title">Spaces shaped by climate, craft and everyday life</h1>
+            <p>Explore rooms from Mumbai flats to Chettinad mansions, compare Indian materials and plan an honest budget in rupees.</p>
+            <div class="hero__actions">
+              <a class="btn btn--accent" id="hero-explore" href="pages/explore/index.html"><i data-icon="explore"></i> Explore designs</a>
+              <a class="btn" href="pages/budget/index.html"><i data-icon="calculator"></i> Plan a budget</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="container section--tight" aria-label="Getting started" id="getting-started" hidden></section>
+
+      <section class="container section" aria-labelledby="featured-title">
+        <div class="section-head" data-reveal>
+          <div>
+            <p class="eyebrow">Featured</p>
+            <h2 id="featured-title">This week's editor's picks</h2>
+          </div>
+          <a class="btn btn--ghost btn--sm" href="pages/explore/index.html">See all <i data-icon="chevron-right"></i></a>
+        </div>
+        <div class="h-scroll" id="featured" role="list" aria-label="Featured designs"></div>
+      </section>
+
+      <section class="container section" aria-labelledby="foryou-title" id="foryou-section" hidden>
+        <div class="section-head" data-reveal>
+          <div>
+            <p class="eyebrow">For you</p>
+            <h2 id="foryou-title">Picked from your preferences</h2>
+            <p id="foryou-why"></p>
+          </div>
+        </div>
+        <div class="design-grid" id="foryou" data-reveal-group></div>
+      </section>
+
+      <section class="section" aria-labelledby="styles-title">
+        <div class="container section-head" data-reveal>
+          <div>
+            <p class="eyebrow">Styles</p>
+            <h2 id="styles-title">From Chettinad to Japandi</h2>
+          </div>
+          <div class="cluster">
+            <button type="button" class="icon-btn" id="marquee-toggle" aria-pressed="false" aria-label="Pause moving style list"><i data-icon="pause"></i></button>
+            <a class="btn btn--ghost btn--sm" href="pages/styles/index.html">All styles <i data-icon="chevron-right"></i></a>
+          </div>
+        </div>
+        <div class="marquee" id="style-marquee"></div>
+      </section>
+
+      <section class="container section" aria-labelledby="story-title">
+        <div class="section-head" data-reveal>
+          <div>
+            <p class="eyebrow">Project story</p>
+            <h2 id="story-title">How a Chettinad drawing room comes together</h2>
+          </div>
+        </div>
+        <div class="story" id="story"></div>
+      </section>
+
+      <section class="container section" aria-labelledby="collections-title">
+        <div class="section-head" data-reveal>
+          <div>
+            <p class="eyebrow">Collections</p>
+            <h2 id="collections-title">Curated for Indian life</h2>
+          </div>
+          <a class="btn btn--ghost btn--sm" href="pages/collections/index.html">All collections <i data-icon="chevron-right"></i></a>
+        </div>
+        <div class="h-scroll h-scroll--small" id="collections" role="list"></div>
+      </section>
+
+      <section class="container section" aria-labelledby="tools-title">
+        <div class="section-head" data-reveal>
+          <div>
+            <p class="eyebrow">Plan with confidence</p>
+            <h2 id="tools-title">Practical tools</h2>
+          </div>
+        </div>
+        <div class="list-grid" data-reveal-group>
+          <a class="card card-link tilt" href="pages/budget/index.html"><i data-icon="calculator"></i><h3 style="margin-top:12px">Budget planner</h3><p class="small muted" style="margin-top:6px">Indicative ranges in rupees for your city, rooms and finish level — with every assumption shown.</p></a>
+          <a class="card card-link tilt" href="pages/materials/index.html"><i data-icon="layers"></i><h3 style="margin-top:12px">Materials library</h3><p class="small muted" style="margin-top:6px">Plywood to Kota stone: uses, care, pros and cons, and relevant BIS standards.</p></a>
+          <a class="card card-link tilt" href="pages/standards/index.html"><i data-icon="shield"></i><h3 style="margin-top:12px">Standards guide</h3><p class="small muted" style="margin-top:6px">What the national codes cover, what is confirmed, and what needs a professional.</p></a>
+        </div>
+      </section>
+      <noscript><div class="container"><p class="callout">This app needs JavaScript to search, filter and save designs.</p></div></noscript>
+    </main>
+    <script type="module" src="/src/js/pages/home.js"></script>
+  </body>
+</html>

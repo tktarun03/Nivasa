@@ -1,0 +1,323 @@
+{
+  "version": 1,
+  "lastReviewed": "2026-11-08",
+  "disclaimer": "This guide identifies documents and offers general orientation only. It does not reproduce or interpret clause-level requirements. Project-specific regulatory compliance must be confirmed by qualified local professionals (architect, structural and electrical engineers, licensed contractors) against the current editions adopted by your local authority.",
+  "tiers": [
+    { "id": "statutory", "name": "Statutory or locally applicable", "description": "Laws and rules that apply where they are in force. Applicability depends on your location, building type and the authority's adoption." },
+    { "id": "model-code", "name": "Model codes and published standards", "description": "National model codes and BIS standards. They become binding where a law, bye-law, contract or certification scheme adopts them." },
+    { "id": "industry", "name": "Industry recommendations and ergonomics", "description": "Good practice used by designers and contractors. Useful, but not a legal requirement." },
+    { "id": "cultural", "name": "Optional cultural preferences", "description": "Traditional planning lenses such as Vastu. Personal and cultural choices, never a substitute for safety, structural or statutory requirements." }
+  ],
+  "reviewStatuses": [
+    { "id": "confirmed", "name": "Document identified", "description": "Number, title and edition were matched to a source on the review date. The document's clauses have not been reproduced or interpreted here." },
+    { "id": "secondary", "name": "Secondary sources only", "description": "Identified from secondary sources. Confirm against the official BIS or government publication before relying on it." },
+    { "id": "verify", "name": "Requires professional verification", "description": "Edition, title or applicability could not be confirmed for this release. Check the current version with BIS or a qualified professional." },
+    { "id": "superseded", "name": "Superseded", "description": "Reported as withdrawn or replaced. It may still be referenced by older approvals or local rules." },
+    { "id": "guidance", "name": "General guidance", "description": "Industry practice or cultural preference, not a standard." }
+  ],
+  "documents": [
+    {
+      "id": "std-nbcs-2026",
+      "designation": "SP 7:2026",
+      "title": "National Building Construction Standards 2026 (NBCS 2026)",
+      "authority": "Bureau of Indian Standards (BIS)",
+      "edition": "2026",
+      "tier": "model-code",
+      "topics": ["fire-life-safety", "accessibility", "building-services", "structure", "materials"],
+      "scope": "India's national model code for building planning, construction, services and safety. Reported to replace the National Building Code of India 2016 with effect from 30 April 2026.",
+      "applicability": "Applies through adoption by state and local authorities and by contract. Check which edition your local authority currently refers to; older approvals may still cite NBC 2016.",
+      "reviewStatus": "secondary",
+      "verifiedOn": "2026-11-08",
+      "sources": [
+        { "name": "BIS — National Building Code page (official)", "url": "https://bis.gov.in/others/national-building-code/" },
+        { "name": "Goa Directorate of Fire & Emergency Services — SP 7:2026 Part F extract", "url": "https://dfes.goa.gov.in/wp-content/uploads/2026/05/sp7_2026_nbcs-212-1480.pdf" },
+        { "name": "NammaWard update on the notification", "url": "https://nammaward.in/nammaward-update-nbc-2026-notified-gazette-standards-document-released/" }
+      ],
+      "notes": "The BIS page reviewed still described the 2016 edition. Replacement details come from secondary sources and a state fire-services document; confirm on the BIS standards portal."
+    },
+    {
+      "id": "std-nbc-2016",
+      "designation": "SP 7:2016",
+      "title": "National Building Code of India 2016 (NBC 2016)",
+      "authority": "Bureau of Indian Standards (BIS)",
+      "edition": "2016 (third revision)",
+      "tier": "model-code",
+      "topics": ["fire-life-safety", "accessibility", "building-services", "structure", "materials", "plumbing"],
+      "scope": "Twelve parts in two volumes covering development control rules, fire and life safety (Part 4), building materials (Part 5), structural design (Part 6), building services including electrical installations (Part 8) and plumbing (Part 9), among others.",
+      "applicability": "Reported withdrawn with effect from 30 April 2026 and replaced by SP 7:2026. Many state bye-laws and existing approvals still reference it.",
+      "reviewStatus": "superseded",
+      "verifiedOn": "2026-11-08",
+      "sources": [
+        { "name": "BIS — National Building Code page (official)", "url": "https://bis.gov.in/others/national-building-code/" },
+        { "name": "Agile Regulatory — SP 7:2026 replaces NBC 2016", "url": "https://www.agileregulatory.com/latest-updates/bis-update-2026-national-building-code-2016-replaced-by-sp-7-2026" }
+      ],
+      "section": "Parts 0–12 (structure as listed by BIS)"
+    },
+    {
+      "id": "std-is-732",
+      "designation": "IS 732:2019",
+      "title": "Code of practice for electrical wiring installations",
+      "authority": "Bureau of Indian Standards (BIS)",
+      "edition": "2019",
+      "tier": "model-code",
+      "topics": ["electrical"],
+      "scope": "Design, selection, erection and inspection of electrical wiring installations in buildings.",
+      "applicability": "Electrical work should be carried out and certified by a licensed electrical contractor. Amendments issued after 2019 were not verified for this release.",
+      "reviewStatus": "secondary",
+      "verifiedOn": "2026-11-08",
+      "sources": [
+        { "name": "BIS — Know your standards", "url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MTQyMzk=" },
+        { "name": "InfraLens — IS 732 summary", "url": "https://infralens.in/code/IS-732" }
+      ],
+      "notes": "Check BIS for amendments to IS 732:2019 before specifying."
+    },
+    {
+      "id": "std-harmonised-2021",
+      "designation": "Harmonised Guidelines 2021",
+      "title": "Harmonised Guidelines and Standards for Universal Accessibility in India, 2021",
+      "authority": "Ministry of Housing and Urban Affairs; prepared by the Central Public Works Department (CPWD)",
+      "edition": "2021 (released December 2021)",
+      "tier": "model-code",
+      "topics": ["accessibility"],
+      "scope": "Universal-accessibility guidance for the built environment across the project cycle, revising CPWD's 2016 barrier-free guidelines.",
+      "applicability": "Especially relevant to public and commercial buildings and to senior-friendly or accessible homes. Confirm how your state applies it.",
+      "reviewStatus": "secondary",
+      "verifiedOn": "2026-11-08",
+      "sources": [
+        { "name": "GKToday summary", "url": "https://www.gktoday.in/guidelines-for-universal-accessibility-in-india-2021/" },
+        { "name": "Ministry of Jal Shakti circular referencing the guidelines (PDF)", "url": "https://mowr.nic.in/core/Circulars/2022/Coord._27-12-2021.pdf" }
+      ]
+    },
+    {
+      "id": "std-rpwd-2016",
+      "designation": "RPwD Act, 2016",
+      "title": "The Rights of Persons with Disabilities Act, 2016",
+      "authority": "Government of India",
+      "edition": "2016",
+      "tier": "statutory",
+      "topics": ["accessibility"],
+      "scope": "Central law on the rights of persons with disabilities, including accessibility of public buildings and services.",
+      "applicability": "Applies to public buildings and services as set out in the Act and its rules. Private homes are generally a design choice; ask a professional for commercial projects.",
+      "reviewStatus": "verify",
+      "verifiedOn": "2026-11-08",
+      "sources": [{ "name": "India Code (official legislation portal)", "url": "https://www.indiacode.nic.in/" }]
+    },
+    {
+      "id": "std-local-bylaws",
+      "designation": "Local building rules",
+      "title": "State and municipal building bye-laws / development control regulations",
+      "authority": "Your state government and municipal or development authority",
+      "edition": "Varies by location",
+      "tier": "statutory",
+      "topics": ["fire-life-safety", "structure", "plumbing", "accessibility"],
+      "scope": "Local rules on permissions, structural changes, fire safety, plumbing, balconies and use of space. Interior changes that touch structure, fire exits, wet-area locations or façades may need approval.",
+      "applicability": "Depends on your city. This app has not verified any city's rules. Society or RWA rules may also apply in apartments.",
+      "reviewStatus": "verify",
+      "verifiedOn": "2026-11-08",
+      "sources": [],
+      "locationDependent": true
+    },
+    {
+      "id": "std-model-bylaws-2016",
+      "designation": "MBBL 2016",
+      "title": "Model Building Bye-Laws, 2016",
+      "authority": "Town and Country Planning Organisation (TCPO), Ministry of Housing and Urban Affairs",
+      "edition": "2016",
+      "tier": "model-code",
+      "topics": ["structure", "fire-life-safety", "accessibility"],
+      "scope": "A national template for states and cities to update their building bye-laws.",
+      "applicability": "Only applies where a state or city has adopted it in its own regulations.",
+      "reviewStatus": "verify",
+      "verifiedOn": "2026-11-08",
+      "sources": []
+    },
+    {
+      "id": "std-is-303", "designation": "IS 303:1989", "title": "Plywood for general purposes — Specification",
+      "authority": "Bureau of Indian Standards (BIS)", "edition": "1989 (reaffirmed)", "tier": "model-code", "topics": ["materials"],
+      "scope": "Requirements for general-purpose plywood.", "applicability": "Check grade markings and certification on supplied sheets.",
+      "reviewStatus": "secondary", "verifiedOn": "2026-11-08",
+      "sources": [{ "name": "InfraLens — IS 303", "url": "https://infralens.in/code/IS-303" }]
+    },
+    {
+      "id": "std-is-710", "designation": "IS 710:2010", "title": "Marine plywood — Specification",
+      "authority": "Bureau of Indian Standards (BIS)", "edition": "2010", "tier": "model-code", "topics": ["materials"],
+      "scope": "Requirements for marine (BWP) plywood.", "applicability": "For wet-exposure joinery; confirm grade on each sheet.",
+      "reviewStatus": "secondary", "verifiedOn": "2026-11-08",
+      "sources": [{ "name": "Public.Resource.Org copy of IS 710:2010", "url": "https://law.resource.org/pub/in/bis/S03/is.710.2010.pdf" }]
+    },
+    {
+      "id": "std-is-1659", "designation": "IS 1659:2004", "title": "Blockboards — Specification",
+      "authority": "Bureau of Indian Standards (BIS)", "edition": "2004 (reaffirmed)", "tier": "model-code", "topics": ["materials"],
+      "scope": "Requirements for blockboards.", "applicability": "Check certification marking on supplied boards.",
+      "reviewStatus": "secondary", "verifiedOn": "2026-11-08",
+      "sources": [{ "name": "InfraLens — IS 1659", "url": "https://infralens.in/code/IS-1659" }]
+    },
+    {
+      "id": "std-is-12406", "designation": "IS 12406", "title": "Medium density fibre boards for general purpose — Specification",
+      "authority": "Bureau of Indian Standards (BIS)", "edition": "Edition not confirmed", "tier": "model-code", "topics": ["materials"],
+      "scope": "Requirements for MDF.", "applicability": "Confirm the current edition and grade with the supplier.",
+      "reviewStatus": "verify", "verifiedOn": "2026-11-08", "sources": []
+    },
+    {
+      "id": "std-is-3087", "designation": "IS 3087:2005", "title": "Particle boards of wood and other lignocellulosic materials (medium density) for general purposes — Specification",
+      "authority": "Bureau of Indian Standards (BIS)", "edition": "2005", "tier": "model-code", "topics": ["materials"],
+      "scope": "Requirements for medium-density particle boards.", "applicability": "Confirm the title and current edition with BIS.",
+      "reviewStatus": "verify", "verifiedOn": "2026-11-08",
+      "sources": [{ "name": "InfraLens — IS 3087:2005", "url": "https://infralens.in/code/IS-3087-2005" }]
+    },
+    {
+      "id": "std-is-2046", "designation": "IS 2046:1995", "title": "Decorative thermosetting synthetic resin bonded laminated sheets — Specification",
+      "authority": "Bureau of Indian Standards (BIS)", "edition": "1995", "tier": "model-code", "topics": ["materials"],
+      "scope": "Requirements for decorative high-pressure laminates.", "applicability": "Confirm whether a later edition applies.",
+      "reviewStatus": "verify", "verifiedOn": "2026-11-08",
+      "sources": [{ "name": "Public.Resource.Org copy of IS 2046:1995", "url": "https://law.resource.org/pub/in/bis/S11/is.2046.1995.pdf" }]
+    },
+    {
+      "id": "std-is-15622", "designation": "IS 15622:2017", "title": "Glazed, vitrified and unglazed ceramic tiles — Specification",
+      "authority": "Bureau of Indian Standards (BIS)", "edition": "2017", "tier": "model-code", "topics": ["materials"],
+      "scope": "Requirements for glazed, vitrified and unglazed ceramic tiles for floor and wall finishes.", "applicability": "Look for certification marking on tile boxes; choose slip resistance for wet areas with your supplier.",
+      "reviewStatus": "secondary", "verifiedOn": "2026-11-08",
+      "sources": [{ "name": "InfraLens — IS 15622:2017", "url": "https://infralens.in/code/IS-15622-2017" }, { "name": "BIS — product manual page", "url": "https://www.bis.gov.in/pm_is_15622/?lang=en" }]
+    },
+    {
+      "id": "std-is-13630", "designation": "IS 13630 (series)", "title": "Ceramic tiles — Methods of test",
+      "authority": "Bureau of Indian Standards (BIS)", "edition": "Multi-part; editions not confirmed", "tier": "model-code", "topics": ["materials"],
+      "scope": "Test methods referenced by tile specifications.", "applicability": "Relevant to manufacturers and testing labs rather than homeowners.",
+      "reviewStatus": "verify", "verifiedOn": "2026-11-08", "sources": []
+    },
+    {
+      "id": "std-is-1130", "designation": "IS 1130", "title": "Marble (blocks, slabs and tiles) — Specification",
+      "authority": "Bureau of Indian Standards (BIS)", "edition": "Edition not confirmed", "tier": "model-code", "topics": ["materials"],
+      "scope": "Requirements for marble blocks, slabs and tiles.", "applicability": "Confirm edition with BIS.",
+      "reviewStatus": "verify", "verifiedOn": "2026-11-08", "sources": []
+    },
+    {
+      "id": "std-is-14223-1", "designation": "IS 14223 (Part 1):2000", "title": "Polished building stones — Part 1: Granite",
+      "authority": "Bureau of Indian Standards (BIS)", "edition": "2000", "tier": "model-code", "topics": ["materials"],
+      "scope": "Requirements for polished granite used in buildings.", "applicability": "Confirm edition and reaffirmation status with BIS.",
+      "reviewStatus": "secondary", "verifiedOn": "2026-11-08",
+      "sources": [{ "name": "InfraLens — IS 14223 Part 1:2000", "url": "https://infralens.in/code/IS-14223-Part-1-2000" }]
+    },
+    {
+      "id": "std-is-17953", "designation": "IS 17953:2023", "title": "uPVC profiles for windows and doors — Specification",
+      "authority": "Bureau of Indian Standards (BIS)", "edition": "2023", "tier": "model-code", "topics": ["materials"],
+      "scope": "Requirements for uPVC profiles used to fabricate windows and doors.", "applicability": "Ask the fabricator which profile system and certification applies.",
+      "reviewStatus": "secondary", "verifiedOn": "2026-11-08",
+      "sources": [{ "name": "Intertek Inform listing for IS 17953:2023", "url": "https://www.intertekinform.com/en-us/standards/is-17953-2023-1331246_saig_bis_bis_3286913/" }]
+    },
+    {
+      "id": "std-is-2553-1", "designation": "IS 2553 (Part 1)", "title": "Safety glass — Specification: Part 1 General purpose",
+      "authority": "Bureau of Indian Standards (BIS)", "edition": "Edition not confirmed", "tier": "model-code", "topics": ["materials", "fire-life-safety"],
+      "scope": "Requirements for safety glass such as toughened and laminated glass.", "applicability": "Glass type in railings, shower screens and low-level glazing should be specified by a professional.",
+      "reviewStatus": "verify", "verifiedOn": "2026-11-08", "sources": []
+    },
+    {
+      "id": "std-is-15489", "designation": "IS 15489", "title": "Paint, plastic emulsion — Specification",
+      "authority": "Bureau of Indian Standards (BIS)", "edition": "Edition not confirmed (2004 version located; later revision possible)", "tier": "model-code", "topics": ["materials"],
+      "scope": "Requirements for plastic (acrylic) emulsion paints.", "applicability": "Confirm current edition with BIS.",
+      "reviewStatus": "verify", "verifiedOn": "2026-11-08",
+      "sources": [{ "name": "Public.Resource.Org copy (older edition)", "url": "https://law.resource.org/pub/in/bis/S02/is.15489.2004.pdf" }]
+    },
+    {
+      "id": "std-is-15477", "designation": "IS 15477", "title": "Adhesives for use with ceramic tiles and mosaics — Specification",
+      "authority": "Bureau of Indian Standards (BIS)", "edition": "Edition not confirmed (2004 version located; later revision possible)", "tier": "model-code", "topics": ["materials"],
+      "scope": "Requirements for tile adhesives.", "applicability": "Large-format tiles generally need the adhesive class recommended by the tile maker.",
+      "reviewStatus": "verify", "verifiedOn": "2026-11-08",
+      "sources": [{ "name": "Public.Resource.Org copy (older edition)", "url": "https://law.resource.org/pub/in/bis/S11/is.15477.2004.pdf" }]
+    },
+    {
+      "id": "std-is-2095", "designation": "IS 2095", "title": "Gypsum plaster boards — Specification",
+      "authority": "Bureau of Indian Standards (BIS)", "edition": "Edition not confirmed", "tier": "model-code", "topics": ["materials"],
+      "scope": "Requirements for gypsum plaster boards.", "applicability": "Confirm edition and moisture-resistant grades for wet areas.",
+      "reviewStatus": "verify", "verifiedOn": "2026-11-08", "sources": []
+    },
+    {
+      "id": "std-is-2202", "designation": "IS 2202", "title": "Wooden flush door shutters — Specification",
+      "authority": "Bureau of Indian Standards (BIS)", "edition": "Multi-part; editions not confirmed", "tier": "model-code", "topics": ["materials"],
+      "scope": "Requirements for factory-made flush door shutters.", "applicability": "Confirm part and edition with the door supplier.",
+      "reviewStatus": "verify", "verifiedOn": "2026-11-08",
+      "sources": [{ "name": "InfraLens — IS 1659 (cross-references IS 2202)", "url": "https://infralens.in/code/IS-1659" }]
+    }
+  ],
+  "guidance": [
+    {
+      "id": "g-kitchen-height", "tier": "industry", "topic": "ergonomics",
+      "title": "Fit kitchen counter height to the main cook",
+      "body": "Indian cooking involves a lot of chopping, rolling and stirring. Many designers set counter height from the main user's elbow height rather than a fixed number. Mock it up with a temporary surface before finalising.",
+      "reviewStatus": "guidance"
+    },
+    {
+      "id": "g-wet-boards", "tier": "industry", "topic": "materials",
+      "title": "Use water-resistant boards around sinks and in humid cities",
+      "body": "Below sinks, near dishwashers and in bathrooms, choose boiling-water-proof plywood or boards the maker rates for wet use, and seal every edge and cut-out.",
+      "reviewStatus": "guidance"
+    },
+    {
+      "id": "g-wet-floors", "tier": "industry", "topic": "safety",
+      "title": "Choose slip-resistant finishes for wet floors",
+      "body": "Polished tiles and stone become slippery when wet. In bathrooms, balconies, utility areas and senior-friendly homes, ask your supplier for tiles rated for wet barefoot areas.",
+      "reviewStatus": "guidance"
+    },
+    {
+      "id": "g-waterproof-test", "tier": "industry", "topic": "wet-areas",
+      "title": "Test waterproofing before tiling",
+      "body": "Ask your contractor to flood-test bathroom and balcony waterproofing before tiles go down. Fixing leaks after tiling means breaking finished work.",
+      "reviewStatus": "guidance"
+    },
+    {
+      "id": "g-electrical", "tier": "industry", "topic": "electrical",
+      "title": "Electrical changes need a licensed electrician",
+      "body": "Adding points, changing the distribution board, or wiring a modular kitchen should be designed and certified by a licensed electrical contractor. Ask about earthing, protective devices and circuit loading for your appliances.",
+      "reviewStatus": "verify"
+    },
+    {
+      "id": "g-structure", "tier": "industry", "topic": "structure",
+      "title": "Never remove walls, beams or columns without an engineer",
+      "body": "Many apartment walls carry loads. Any opening, removal or heavy addition (stone cladding, large aquariums, terrace gardens) needs a structural engineer's review and often society and authority approval.",
+      "reviewStatus": "verify"
+    },
+    {
+      "id": "g-ventilation", "tier": "industry", "topic": "comfort",
+      "title": "Keep exhaust and cross-ventilation working",
+      "body": "Kitchens and bathrooms need working exhaust. When adding false ceilings, wardrobes or partitions, check you are not blocking windows, vents or AC drainage.",
+      "reviewStatus": "guidance"
+    },
+    {
+      "id": "g-senior", "tier": "industry", "topic": "accessibility",
+      "title": "Senior-friendly basics",
+      "body": "Good lighting along night-time routes, lever handles, contrasting edges on steps, slip-resistant floors and support near the WC and shower help older family members. For exact grab-bar positions and clearances, consult the accessibility guidelines and a professional.",
+      "reviewStatus": "guidance",
+      "related": ["std-harmonised-2021"]
+    },
+    {
+      "id": "g-fire-exits", "tier": "industry", "topic": "fire-life-safety",
+      "title": "Do not block escape routes",
+      "body": "Grilles, storage and partitions must not block exits, corridors or refuge areas. In commercial projects, fire safety design and approvals are a matter for qualified professionals and the fire authority.",
+      "reviewStatus": "verify"
+    },
+    {
+      "id": "c-pooja", "tier": "cultural", "topic": "vastu",
+      "title": "Pooja room placement (Vastu preference)",
+      "body": "Many families following Vastu prefer the north-east part of the home for the pooja space. Treat this as a personal planning preference, balanced with light, ventilation and practicality.",
+      "reviewStatus": "guidance"
+    },
+    {
+      "id": "c-kitchen", "tier": "cultural", "topic": "vastu",
+      "title": "Kitchen orientation (Vastu preference)",
+      "body": "A common Vastu preference is a kitchen in the south-east with the cook facing east. In apartments this is often not possible; good ventilation, safe gas routing and comfortable working matter more.",
+      "reviewStatus": "guidance"
+    },
+    {
+      "id": "c-entrance", "tier": "cultural", "topic": "vastu",
+      "title": "Entrance and threshold (Vastu preference)",
+      "body": "Vastu traditions value a well-lit, uncluttered entrance and a defined threshold. These are design and cultural choices with no bearing on structural or fire safety.",
+      "reviewStatus": "guidance"
+    },
+    {
+      "id": "c-bed", "tier": "cultural", "topic": "vastu",
+      "title": "Sleeping direction (Vastu preference)",
+      "body": "Some households prefer sleeping with the head to the south or east. Accommodate it if it matters to you; it is a personal preference, not a health or safety rule.",
+      "reviewStatus": "guidance"
+    }
+  ]
+}
