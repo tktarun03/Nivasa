@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en-IN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="app-root" content="../../" />
+    <meta name="theme-color" content="#faf7f2" />
+    <meta name="description" content="Indian interior materials compared: boards, laminates, stone, tiles, wood, glass, paints and fittings." />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <title>Materials library · Nivasa</title>
+  </head>
+  <body data-page="materials">
+    <main id="main" tabindex="-1">
+      <div class="container page-head">
+        <p class="eyebrow">Materials library</p>
+        <h1>Indian materials, compared</h1>
+        <p class="lede">Uses, care, strengths and limits of the boards, stones, tiles and finishes used in Indian interiors.</p>
+      </div>
+      <div class="filter-bar">
+        <div class="container">
+          <div class="filter-bar__row">
+            <form class="search" role="search" onsubmit="return false">
+              <i data-icon="search"></i>
+              <label for="m-q" class="sr-only">Search materials</label>
+              <input id="m-q" type="search" placeholder="Search materials" autocomplete="off" />
+            </form>
+          </div>
+          <div class="filter-bar__row"><div class="chip-row" id="m-groups"></div></div>
+        </div>
+      </div>
+      <div class="container section--tight">
+        <p class="callout callout--info" id="m-note"></p>
+        <div id="m-list" style="margin-top:16px"></div>
+      </div>
+      <div class="accessory" id="compare-tray" hidden></div>
+      <noscript><div class="container"><p class="callout">This app needs JavaScript to search, filter and save designs.</p></div></noscript>
+    </main>
+    <script type="module" src="/src/js/pages/materials.js"></script>
+  </body>
+</html>

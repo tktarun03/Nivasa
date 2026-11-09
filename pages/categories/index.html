@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en-IN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="app-root" content="../../" />
+    <meta name="theme-color" content="#faf7f2" />
+    <meta name="description" content="Browse every Indian interior category: rooms, elements, property types, commercial spaces and styles." />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <title>Categories · Nivasa</title>
+  </head>
+  <body data-page="categories">
+    <main id="main" tabindex="-1">
+      <div class="container page-head">
+        <p class="eyebrow">Categories</p>
+        <h1>Every space, element and style</h1>
+        <p class="lede">A structured guide to Indian interiors: rooms, the elements inside them, property types, commercial spaces and design styles.</p>
+      </div>
+      <div class="filter-bar">
+        <div class="container filter-bar__row">
+          <form class="search" role="search" onsubmit="return false">
+            <i data-icon="search"></i>
+            <label for="cat-q" class="sr-only">Search categories</label>
+            <input id="cat-q" type="search" placeholder="Search categories, e.g. pooja, jaali, 2 BHK" autocomplete="off" />
+          </form>
+        </div>
+      </div>
+      <div class="container" id="groups"></div>
+      <noscript><div class="container"><p class="callout">This app needs JavaScript to search, filter and save designs.</p></div></noscript>
+    </main>
+    <script type="module" src="/src/js/pages/categories.js"></script>
+  </body>
+</html>

@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en-IN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="app-root" content="../../" />
+    <meta name="theme-color" content="#faf7f2" />
+    <meta name="description" content="Search and filter Indian interior designs by room, style, city, climate, budget, property type and material." />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <title>Explore · Nivasa</title>
+  </head>
+  <body data-page="explore">
+    <main id="main" tabindex="-1">
+      <div class="container page-head">
+        <p class="eyebrow">Explore</p>
+        <h1>Find a design for your space</h1>
+      </div>
+      <div class="filter-bar" id="filter-bar">
+        <div class="container">
+          <div class="filter-bar__row">
+            <form class="search" role="search" id="search-form">
+              <i data-icon="search"></i>
+              <label for="q" class="sr-only">Search designs</label>
+              <input id="q" name="q" type="search" placeholder="Search rooms, styles, cities…" autocomplete="off" enterkeyhint="search" />
+              <button type="button" class="icon-btn search__clear" id="q-clear" aria-label="Clear search" hidden><i data-icon="x"></i></button>
+            </form>
+            <button type="button" class="icon-btn" id="refresh" aria-label="Refresh results"><i data-icon="refresh"></i></button>
+          </div>
+          <div class="filter-bar__row">
+            <div class="scope-bar" role="group" aria-label="Scope" id="scope"></div>
+          </div>
+          <div class="filter-bar__row">
+            <div class="chip-row" id="chips"></div>
+          </div>
+        </div>
+      </div>
+      <div class="container section--tight">
+        <div class="section-head" style="margin-bottom:16px">
+          <p class="small muted" id="count" role="status" aria-live="polite">Loading designs…</p>
+          <button type="button" class="btn btn--sm" id="sort" aria-haspopup="menu" aria-expanded="false"><i data-icon="sort"></i> <span>Best match</span></button>
+        </div>
+        <div class="design-grid" id="results" data-reveal-group></div>
+        <div id="results-footer"></div>
+      </div>
+      <noscript><div class="container"><p class="callout">This app needs JavaScript to search, filter and save designs.</p></div></noscript>
+    </main>
+    <script type="module" src="/src/js/pages/explore.js"></script>
+  </body>
+</html>

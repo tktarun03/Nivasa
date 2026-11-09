@@ -1,0 +1,3658 @@
+{
+  "version": 1,
+  "demo": true,
+  "note": "Demonstration catalogue. All designs are fictional concepts illustrated with original generated vector art, not photographs of real projects. Budgets are indicative model estimates, not quotations.",
+  "designs": [
+    {
+      "id": "sea-breeze-living-with-cane-accents",
+      "title": "Sea-breeze living with cane accents",
+      "summary": "A compact Mumbai living room that keeps the sea breeze moving: low cane seating, a fluted TV wall with hidden storage and linen drapes that dry quickly through the monsoon.",
+      "category": "living-room",
+      "style": "contemporary-indian",
+      "city": "mumbai",
+      "climate": "humid-coastal",
+      "property": "2bhk",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 345000,
+        "high": 575000,
+        "basis": "Indicative model estimate for about 200 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 200,
+      "elements": [
+        "tv-units",
+        "curtains-blinds",
+        "soft-furnishings"
+      ],
+      "materials": [
+        "cane-rattan",
+        "veneer",
+        "vitrified-tiles"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/sea-breeze-living-with-cane-accents-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of sea-breeze living with cane accents: a contemporary indian living room and drawing room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/sea-breeze-living-with-cane-accents-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from sea-breeze living with cane accents."
+        },
+        {
+          "src": "assets/illustrations/designs/sea-breeze-living-with-cane-accents-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the living room and drawing room in contemporary indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": true,
+      "added": "2026-10-01",
+      "popularity": 0
+    },
+    {
+      "id": "athangudi-floored-drawing-room",
+      "title": "Athangudi-floored drawing room",
+      "summary": "A drawing room built around a hand-made Athangudi floor, with teak pillars, an indigo daybed and brass lamps that echo Karaikudi mansions.",
+      "category": "living-room",
+      "style": "chettinad",
+      "city": "chennai",
+      "climate": "humid-coastal",
+      "property": "independent-house",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 840000,
+        "high": 1411000,
+        "basis": "Indicative model estimate for about 320 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 320,
+      "elements": [
+        "flooring",
+        "tiles",
+        "lighting"
+      ],
+      "materials": [
+        "athangudi-tiles",
+        "solid-wood",
+        "brass-hardware"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/athangudi-floored-drawing-room-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of athangudi-floored drawing room: a chettinad living room and drawing room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/athangudi-floored-drawing-room-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from athangudi-floored drawing room."
+        },
+        {
+          "src": "assets/illustrations/designs/athangudi-floored-drawing-room-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the living room and drawing room in chettinad style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-02",
+      "popularity": 37
+    },
+    {
+      "id": "marine-drive-deco-lounge",
+      "title": "Marine Drive deco lounge",
+      "summary": "Curved velvet seating, a terrazzo floor with brass inlay strips and an arched mirror that nods to Mumbai's Art Deco seafront.",
+      "category": "living-room",
+      "style": "art-deco",
+      "city": "mumbai",
+      "climate": "humid-coastal",
+      "property": "3bhk",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 748000,
+        "high": 1256000,
+        "basis": "Indicative model estimate for about 260 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 260,
+      "elements": [
+        "flooring",
+        "mirrors",
+        "upholstery"
+      ],
+      "materials": [
+        "terrazzo",
+        "brass-hardware",
+        "veneer"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/marine-drive-deco-lounge-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of marine drive deco lounge: a art deco living room and drawing room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/marine-drive-deco-lounge-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from marine drive deco lounge."
+        },
+        {
+          "src": "assets/illustrations/designs/marine-drive-deco-lounge-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the living room and drawing room in art deco style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": true,
+      "added": "2026-10-03",
+      "popularity": 74
+    },
+    {
+      "id": "quiet-oak-living-room",
+      "title": "Quiet oak living room",
+      "summary": "Low oak furniture, slatted screens and a paper pendant create a calm living room for a Bengaluru family that works from home.",
+      "category": "living-room",
+      "style": "japandi",
+      "city": "bengaluru",
+      "climate": "moderate",
+      "property": "3bhk",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 396000,
+        "high": 660000,
+        "basis": "Indicative model estimate for about 240 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 240,
+      "elements": [
+        "partitions",
+        "lighting",
+        "flooring"
+      ],
+      "materials": [
+        "engineered-wood",
+        "veneer",
+        "lime-plaster"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/quiet-oak-living-room-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of quiet oak living room: a japandi living room and drawing room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/quiet-oak-living-room-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from quiet oak living room."
+        },
+        {
+          "src": "assets/illustrations/designs/quiet-oak-living-room-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the living room and drawing room in japandi style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-04",
+      "popularity": 11
+    },
+    {
+      "id": "jharokha-lounge-in-sandstone-pink",
+      "title": "Jharokha lounge in sandstone pink",
+      "summary": "A villa lounge framed by a carved jharokha window, indigo block-print upholstery and mirror-work cushions against warm sandstone.",
+      "category": "living-room",
+      "style": "rajasthani",
+      "city": "jaipur",
+      "climate": "hot-dry",
+      "property": "villa",
+      "budgetTier": "luxury",
+      "budget": {
+        "low": 1609000,
+        "high": 3064000,
+        "basis": "Indicative model estimate for about 380 sq ft, luxury finish (not a quotation)"
+      },
+      "areaSqft": 380,
+      "elements": [
+        "doors-windows",
+        "upholstery",
+        "decor-accessories"
+      ],
+      "materials": [
+        "sandstone",
+        "marble",
+        "solid-wood"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/jharokha-lounge-in-sandstone-pink-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of jharokha lounge in sandstone pink: a rajasthani living room and drawing room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/jharokha-lounge-in-sandstone-pink-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from jharokha lounge in sandstone pink."
+        },
+        {
+          "src": "assets/illustrations/designs/jharokha-lounge-in-sandstone-pink-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the living room and drawing room in rajasthani style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-05",
+      "popularity": 48
+    },
+    {
+      "id": "arched-headboard-suite",
+      "title": "Arched headboard suite",
+      "summary": "A softly arched upholstered headboard, terrazzo bedside tables and a modern jaali screen hiding the dressing nook.",
+      "category": "master-bedroom",
+      "style": "indo-contemporary",
+      "city": "pune",
+      "climate": "moderate",
+      "property": "3bhk",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 518000,
+        "high": 869000,
+        "basis": "Indicative model estimate for about 180 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 180,
+      "elements": [
+        "wall-design",
+        "partitions",
+        "wardrobes"
+      ],
+      "materials": [
+        "terrazzo",
+        "veneer",
+        "emulsion-paint"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/arched-headboard-suite-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of arched headboard suite: a indo-contemporary master bedroom seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/arched-headboard-suite-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from arched headboard suite."
+        },
+        {
+          "src": "assets/illustrations/designs/arched-headboard-suite-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the master bedroom in indo-contemporary style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": true,
+      "added": "2026-10-06",
+      "popularity": 85
+    },
+    {
+      "id": "north-kolkata-four-poster-room",
+      "title": "North Kolkata four-poster room",
+      "summary": "A restored room with a red oxide floor, green louvred shutters and a teak four-poster dressed in kantha throws.",
+      "category": "master-bedroom",
+      "style": "bengali-heritage",
+      "city": "kolkata",
+      "climate": "humid-coastal",
+      "property": "heritage-home",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 721000,
+        "high": 1211000,
+        "basis": "Indicative model estimate for about 220 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 220,
+      "elements": [
+        "flooring",
+        "doors-windows",
+        "soft-furnishings"
+      ],
+      "materials": [
+        "red-oxide-floor",
+        "solid-wood",
+        "lime-plaster"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/north-kolkata-four-poster-room-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of north kolkata four-poster room: a bengali heritage master bedroom seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/north-kolkata-four-poster-room-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from north kolkata four-poster room."
+        },
+        {
+          "src": "assets/illustrations/designs/north-kolkata-four-poster-room-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the master bedroom in bengali heritage style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-07",
+      "popularity": 22
+    },
+    {
+      "id": "handle-less-calm-bedroom",
+      "title": "Handle-less calm bedroom",
+      "summary": "Floor-to-ceiling handle-less wardrobes, cove lighting and a single linen palette for a bedroom that switches off the city.",
+      "category": "master-bedroom",
+      "style": "minimalist",
+      "city": "delhi-ncr",
+      "climate": "composite",
+      "property": "4bhk",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 664000,
+        "high": 1116000,
+        "basis": "Indicative model estimate for about 200 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 200,
+      "elements": [
+        "wardrobes",
+        "false-ceiling",
+        "lighting",
+        "smart-home"
+      ],
+      "materials": [
+        "acrylic-finish",
+        "gypsum-board",
+        "engineered-wood"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/handle-less-calm-bedroom-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of handle-less calm bedroom: a minimalist master bedroom seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/handle-less-calm-bedroom-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from handle-less calm bedroom."
+        },
+        {
+          "src": "assets/illustrations/designs/handle-less-calm-bedroom-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the master bedroom in minimalist style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-08",
+      "popularity": 59
+    },
+    {
+      "id": "monsoon-ready-timber-bedroom",
+      "title": "Monsoon-ready timber bedroom",
+      "summary": "Timber ceiling slats, a laterite-textured wall and quick-drying cotton furnishings for long Kerala monsoons.",
+      "category": "master-bedroom",
+      "style": "kerala",
+      "city": "kochi",
+      "climate": "heavy-monsoon",
+      "property": "independent-house",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 327000,
+        "high": 545000,
+        "basis": "Indicative model estimate for about 190 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 190,
+      "elements": [
+        "false-ceiling",
+        "ventilation-comfort",
+        "soft-furnishings"
+      ],
+      "materials": [
+        "solid-wood",
+        "lime-plaster",
+        "terracotta-tiles"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/monsoon-ready-timber-bedroom-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of monsoon-ready timber bedroom: a kerala-inspired master bedroom seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/monsoon-ready-timber-bedroom-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from monsoon-ready timber bedroom."
+        },
+        {
+          "src": "assets/illustrations/designs/monsoon-ready-timber-bedroom-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the master bedroom in kerala-inspired style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-09",
+      "popularity": 96
+    },
+    {
+      "id": "bright-guest-room-on-a-budget",
+      "title": "Bright guest room on a budget",
+      "summary": "White walls, pale laminate wardrobes and a daybed that seats guests by day — a guest room that pulls double duty.",
+      "category": "guest-bedroom",
+      "style": "scandinavian",
+      "city": "bengaluru",
+      "climate": "moderate",
+      "property": "2bhk",
+      "budgetTier": "essential",
+      "budget": {
+        "low": 119000,
+        "high": 198000,
+        "basis": "Indicative model estimate for about 120 sq ft, essential finish (not a quotation)"
+      },
+      "areaSqft": 120,
+      "elements": [
+        "wardrobes",
+        "modular-furniture"
+      ],
+      "materials": [
+        "laminate",
+        "vitrified-tiles",
+        "emulsion-paint"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/bright-guest-room-on-a-budget-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of bright guest room on a budget: a scandinavian guest bedroom seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/bright-guest-room-on-a-budget-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from bright guest room on a budget."
+        },
+        {
+          "src": "assets/illustrations/designs/bright-guest-room-on-a-budget-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the guest bedroom in scandinavian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-10",
+      "popularity": 33
+    },
+    {
+      "id": "shuttered-goan-guest-room",
+      "title": "Shuttered Goan guest room",
+      "summary": "Lime-washed walls, blue shutters and a rattan bed for guests who arrive for the monsoon.",
+      "category": "guest-bedroom",
+      "style": "coastal-indian",
+      "city": "goa",
+      "climate": "heavy-monsoon",
+      "property": "villa",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 252000,
+        "high": 420000,
+        "basis": "Indicative model estimate for about 150 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 150,
+      "elements": [
+        "doors-windows",
+        "paint-textures"
+      ],
+      "materials": [
+        "lime-plaster",
+        "cane-rattan",
+        "upvc-windows"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/shuttered-goan-guest-room-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of shuttered goan guest room: a coastal indian guest bedroom seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/shuttered-goan-guest-room-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from shuttered goan guest room."
+        },
+        {
+          "src": "assets/illustrations/designs/shuttered-goan-guest-room-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the guest bedroom in coastal indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-11",
+      "popularity": 70
+    },
+    {
+      "id": "grow-with-me-kids-room",
+      "title": "Grow-with-me kids room",
+      "summary": "A bunk with a reading nook, washable wall paint and storage at child height that adapts as children grow.",
+      "category": "kids-bedroom",
+      "style": "scandinavian",
+      "city": "hyderabad",
+      "climate": "composite",
+      "property": "3bhk",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 205000,
+        "high": 341000,
+        "basis": "Indicative model estimate for about 130 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 130,
+      "elements": [
+        "storage-systems",
+        "paint-textures",
+        "modular-furniture"
+      ],
+      "materials": [
+        "plywood",
+        "laminate",
+        "emulsion-paint"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/grow-with-me-kids-room-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of grow-with-me kids room: a scandinavian children's bedroom seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/grow-with-me-kids-room-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from grow-with-me kids room."
+        },
+        {
+          "src": "assets/illustrations/designs/grow-with-me-kids-room-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the children's bedroom in scandinavian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-12",
+      "popularity": 7
+    },
+    {
+      "id": "story-corner-bedroom",
+      "title": "Story-corner bedroom",
+      "summary": "A canopy reading corner, floor cushions and a pin-up wall for art in a small second bedroom.",
+      "category": "kids-bedroom",
+      "style": "bohemian",
+      "city": "pune",
+      "climate": "moderate",
+      "property": "2bhk",
+      "budgetTier": "essential",
+      "budget": {
+        "low": 104000,
+        "high": 173000,
+        "basis": "Indicative model estimate for about 110 sq ft, essential finish (not a quotation)"
+      },
+      "areaSqft": 110,
+      "elements": [
+        "soft-furnishings",
+        "wall-design"
+      ],
+      "materials": [
+        "cane-rattan",
+        "wallpaper",
+        "laminate-flooring"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/story-corner-bedroom-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of story-corner bedroom: a bohemian children's bedroom seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/story-corner-bedroom-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from story-corner bedroom."
+        },
+        {
+          "src": "assets/illustrations/designs/story-corner-bedroom-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the children's bedroom in bohemian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-13",
+      "popularity": 44
+    },
+    {
+      "id": "soft-light-nursery",
+      "title": "Soft-light nursery",
+      "summary": "Dimmable warm lighting, rounded furniture edges and blackout blinds for day naps.",
+      "category": "nursery",
+      "style": "minimalist",
+      "city": "chennai",
+      "climate": "humid-coastal",
+      "property": "2bhk",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 135000,
+        "high": 225000,
+        "basis": "Indicative model estimate for about 100 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 100,
+      "elements": [
+        "lighting",
+        "curtains-blinds"
+      ],
+      "materials": [
+        "mdf",
+        "emulsion-paint",
+        "engineered-wood"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/soft-light-nursery-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of soft-light nursery: a minimalist nursery seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/soft-light-nursery-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from soft-light nursery."
+        },
+        {
+          "src": "assets/illustrations/designs/soft-light-nursery-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the nursery in minimalist style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-14",
+      "popularity": 81
+    },
+    {
+      "id": "easy-reach-room-for-parents",
+      "title": "Easy-reach room for parents",
+      "summary": "A ground-floor bedroom with lever handles, night-path lighting, a firm-height bed and a slip-resistant floor.",
+      "category": "senior-bedroom",
+      "style": "contemporary-indian",
+      "city": "lucknow",
+      "climate": "composite",
+      "property": "independent-house",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 229000,
+        "high": 381000,
+        "basis": "Indicative model estimate for about 150 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 150,
+      "elements": [
+        "lighting",
+        "flooring",
+        "wardrobes"
+      ],
+      "materials": [
+        "vitrified-tiles",
+        "plywood",
+        "kitchen-hardware"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/easy-reach-room-for-parents-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of easy-reach room for parents: a contemporary indian senior-friendly bedroom seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/easy-reach-room-for-parents-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from easy-reach room for parents."
+        },
+        {
+          "src": "assets/illustrations/designs/easy-reach-room-for-parents-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the senior-friendly bedroom in contemporary indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-15",
+      "popularity": 18
+    },
+    {
+      "id": "courtyard-facing-elders-room",
+      "title": "Courtyard-facing elders' room",
+      "summary": "A calm room opening to a courtyard, with a built-in low seat, matt flooring and a wall-mounted shelf for daily essentials.",
+      "category": "senior-bedroom",
+      "style": "traditional-south-indian",
+      "city": "coimbatore",
+      "climate": "moderate",
+      "property": "independent-house",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 249000,
+        "high": 416000,
+        "basis": "Indicative model estimate for about 160 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 160,
+      "elements": [
+        "ventilation-comfort",
+        "flooring"
+      ],
+      "materials": [
+        "red-oxide-floor",
+        "solid-wood",
+        "lime-plaster"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/courtyard-facing-elders-room-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of courtyard-facing elders' room: a traditional south indian senior-friendly bedroom seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/courtyard-facing-elders-room-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from courtyard-facing elders' room."
+        },
+        {
+          "src": "assets/illustrations/designs/courtyard-facing-elders-room-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the senior-friendly bedroom in traditional south indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-16",
+      "popularity": 55
+    },
+    {
+      "id": "parallel-kitchen-for-a-1-bhk",
+      "title": "Parallel kitchen for a 1 BHK",
+      "summary": "A parallel kitchen with tall pantry pull-outs, a quartz platform and a chimney planned around tadka and tawa cooking.",
+      "category": "modular-kitchen",
+      "style": "modern-urban-indian",
+      "city": "mumbai",
+      "climate": "humid-coastal",
+      "property": "1bhk",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 269000,
+        "high": 449000,
+        "basis": "Indicative model estimate for about 70 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 70,
+      "elements": [
+        "kitchen-cabinets",
+        "countertops",
+        "ventilation-comfort"
+      ],
+      "materials": [
+        "hdhmr",
+        "quartz",
+        "kitchen-hardware"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/parallel-kitchen-for-a-1-bhk-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of parallel kitchen for a 1 bhk: a modern urban indian modular kitchen seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/parallel-kitchen-for-a-1-bhk-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from parallel kitchen for a 1 bhk."
+        },
+        {
+          "src": "assets/illustrations/designs/parallel-kitchen-for-a-1-bhk-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the modular kitchen in modern urban indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": true,
+      "added": "2026-10-17",
+      "popularity": 92
+    },
+    {
+      "id": "granite-and-brass-l-kitchen",
+      "title": "Granite and brass L-kitchen",
+      "summary": "An L-shaped kitchen with a black granite platform, wet-grinder corner and brass handles against warm wood shutters.",
+      "category": "modular-kitchen",
+      "style": "traditional-south-indian",
+      "city": "chennai",
+      "climate": "humid-coastal",
+      "property": "3bhk",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 575000,
+        "high": 966000,
+        "basis": "Indicative model estimate for about 100 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 100,
+      "elements": [
+        "kitchen-cabinets",
+        "countertops"
+      ],
+      "materials": [
+        "granite",
+        "marine-plywood",
+        "brass-hardware"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/granite-and-brass-l-kitchen-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of granite and brass l-kitchen: a traditional south indian modular kitchen seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/granite-and-brass-l-kitchen-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from granite and brass l-kitchen."
+        },
+        {
+          "src": "assets/illustrations/designs/granite-and-brass-l-kitchen-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the modular kitchen in traditional south indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-18",
+      "popularity": 29
+    },
+    {
+      "id": "matt-sage-handle-less-kitchen",
+      "title": "Matt sage handle-less kitchen",
+      "summary": "Matt sage acrylic shutters, an integrated tall unit and under-cabinet lights that keep a busy kitchen visually quiet.",
+      "category": "modular-kitchen",
+      "style": "minimalist",
+      "city": "bengaluru",
+      "climate": "moderate",
+      "property": "2bhk",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 569000,
+        "high": 956000,
+        "basis": "Indicative model estimate for about 90 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 90,
+      "elements": [
+        "kitchen-cabinets",
+        "lighting"
+      ],
+      "materials": [
+        "acrylic-finish",
+        "quartz",
+        "kitchen-hardware"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/matt-sage-handle-less-kitchen-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of matt sage handle-less kitchen: a minimalist modular kitchen seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/matt-sage-handle-less-kitchen-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from matt sage handle-less kitchen."
+        },
+        {
+          "src": "assets/illustrations/designs/matt-sage-handle-less-kitchen-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the modular kitchen in minimalist style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-19",
+      "popularity": 66
+    },
+    {
+      "id": "brick-tile-kitchen-with-open-shelves",
+      "title": "Brick-tile kitchen with open shelves",
+      "summary": "Brick-effect tile splashback, black profile shutters and a sturdy open shelf for everyday steel and brass.",
+      "category": "modular-kitchen",
+      "style": "industrial",
+      "city": "delhi-ncr",
+      "climate": "composite",
+      "property": "3bhk",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 361000,
+        "high": 601000,
+        "basis": "Indicative model estimate for about 95 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 95,
+      "elements": [
+        "kitchen-cabinets",
+        "tiles"
+      ],
+      "materials": [
+        "ceramic-tiles",
+        "aluminium",
+        "granite"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/brick-tile-kitchen-with-open-shelves-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of brick-tile kitchen with open shelves: a industrial modular kitchen seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/brick-tile-kitchen-with-open-shelves-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from brick-tile kitchen with open shelves."
+        },
+        {
+          "src": "assets/illustrations/designs/brick-tile-kitchen-with-open-shelves-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the modular kitchen in industrial style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-20",
+      "popularity": 3
+    },
+    {
+      "id": "island-kitchen-with-breakfast-counter",
+      "title": "Island kitchen with breakfast counter",
+      "summary": "An open kitchen with an island for chopping and chai, a separate wet-kitchen zone behind for heavy Indian cooking.",
+      "category": "open-kitchen",
+      "style": "scandinavian",
+      "city": "pune",
+      "climate": "moderate",
+      "property": "3bhk",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 840000,
+        "high": 1411000,
+        "basis": "Indicative model estimate for about 140 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 140,
+      "elements": [
+        "countertops",
+        "kitchen-cabinets"
+      ],
+      "materials": [
+        "quartz",
+        "veneer",
+        "kitchen-hardware"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/island-kitchen-with-breakfast-counter-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of island kitchen with breakfast counter: a scandinavian open kitchen seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/island-kitchen-with-breakfast-counter-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from island kitchen with breakfast counter."
+        },
+        {
+          "src": "assets/illustrations/designs/island-kitchen-with-breakfast-counter-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the open kitchen in scandinavian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-21",
+      "popularity": 40
+    },
+    {
+      "id": "six-seater-with-jaali-sideboard",
+      "title": "Six-seater with jaali sideboard",
+      "summary": "A solid-wood dining table, cane chairs and a jaali-front crockery unit that lets air through.",
+      "category": "dining-room",
+      "style": "indo-contemporary",
+      "city": "hyderabad",
+      "climate": "composite",
+      "property": "3bhk",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 162000,
+        "high": 270000,
+        "basis": "Indicative model estimate for about 120 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 120,
+      "elements": [
+        "partitions",
+        "lighting"
+      ],
+      "materials": [
+        "solid-wood",
+        "cane-rattan",
+        "mdf"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/six-seater-with-jaali-sideboard-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of six-seater with jaali sideboard: a indo-contemporary dining room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/six-seater-with-jaali-sideboard-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from six-seater with jaali sideboard."
+        },
+        {
+          "src": "assets/illustrations/designs/six-seater-with-jaali-sideboard-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the dining room in indo-contemporary style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-22",
+      "popularity": 77
+    },
+    {
+      "id": "marble-and-brass-formal-dining",
+      "title": "Marble-and-brass formal dining",
+      "summary": "Book-matched marble, a brass-inlaid floor border and a sculptural chandelier for a family that hosts often.",
+      "category": "dining-room",
+      "style": "indian-luxury",
+      "city": "delhi-ncr",
+      "climate": "composite",
+      "property": "villa",
+      "budgetTier": "luxury",
+      "budget": {
+        "low": 931000,
+        "high": 1774000,
+        "basis": "Indicative model estimate for about 200 sq ft, luxury finish (not a quotation)"
+      },
+      "areaSqft": 200,
+      "elements": [
+        "flooring",
+        "lighting"
+      ],
+      "materials": [
+        "marble",
+        "brass-hardware",
+        "veneer"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/marble-and-brass-formal-dining-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of marble-and-brass formal dining: a indian luxury dining room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/marble-and-brass-formal-dining-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from marble-and-brass formal dining."
+        },
+        {
+          "src": "assets/illustrations/designs/marble-and-brass-formal-dining-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the dining room in indian luxury style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-23",
+      "popularity": 14
+    },
+    {
+      "id": "wet-and-dry-split-bathroom",
+      "title": "Wet-and-dry split bathroom",
+      "summary": "A glass partition separating shower from vanity, matt anti-skid floor tiles and a wall-hung WC for easy cleaning.",
+      "category": "bathroom",
+      "style": "minimalist",
+      "city": "bengaluru",
+      "climate": "moderate",
+      "property": "2bhk",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 149000,
+        "high": 248000,
+        "basis": "Indicative model estimate for about 45 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 45,
+      "elements": [
+        "tiles",
+        "mirrors"
+      ],
+      "materials": [
+        "vitrified-tiles",
+        "glass",
+        "cp-fittings",
+        "waterproofing"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/wet-and-dry-split-bathroom-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of wet-and-dry split bathroom: a minimalist bathroom seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/wet-and-dry-split-bathroom-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from wet-and-dry split bathroom."
+        },
+        {
+          "src": "assets/illustrations/designs/wet-and-dry-split-bathroom-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the bathroom in minimalist style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-24",
+      "popularity": 51
+    },
+    {
+      "id": "green-and-brass-deco-bath",
+      "title": "Green-and-brass deco bath",
+      "summary": "Bottle-green tiles, a fluted vanity, an arched mirror and brass fittings in a compact Mumbai bathroom.",
+      "category": "bathroom",
+      "style": "art-deco",
+      "city": "mumbai",
+      "climate": "humid-coastal",
+      "property": "3bhk",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 288000,
+        "high": 483000,
+        "basis": "Indicative model estimate for about 50 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 50,
+      "elements": [
+        "tiles",
+        "mirrors",
+        "lighting"
+      ],
+      "materials": [
+        "ceramic-tiles",
+        "terrazzo",
+        "brass-hardware",
+        "waterproofing"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/green-and-brass-deco-bath-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of green-and-brass deco bath: a art deco bathroom seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/green-and-brass-deco-bath-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from green-and-brass deco bath."
+        },
+        {
+          "src": "assets/illustrations/designs/green-and-brass-deco-bath-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the bathroom in art deco style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-25",
+      "popularity": 88
+    },
+    {
+      "id": "monsoon-bathroom-with-ventilated-skylight",
+      "title": "Monsoon bathroom with ventilated skylight",
+      "summary": "Terracotta-toned tiles, a high ventilated window and quick-drying surfaces for a humid coastal climate.",
+      "category": "bathroom",
+      "style": "kerala",
+      "city": "kochi",
+      "climate": "heavy-monsoon",
+      "property": "independent-house",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 150000,
+        "high": 249000,
+        "basis": "Indicative model estimate for about 50 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 50,
+      "elements": [
+        "ventilation-comfort",
+        "tiles"
+      ],
+      "materials": [
+        "ceramic-tiles",
+        "waterproofing",
+        "cp-fittings"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/monsoon-bathroom-with-ventilated-skylight-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of monsoon bathroom with ventilated skylight: a kerala-inspired bathroom seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/monsoon-bathroom-with-ventilated-skylight-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from monsoon bathroom with ventilated skylight."
+        },
+        {
+          "src": "assets/illustrations/designs/monsoon-bathroom-with-ventilated-skylight-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the bathroom in kerala-inspired style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-26",
+      "popularity": 25
+    },
+    {
+      "id": "jewel-box-powder-room",
+      "title": "Jewel-box powder room",
+      "summary": "A carved stone basin, mirror-work wall and warm pin lights for a powder room guests remember.",
+      "category": "powder-room",
+      "style": "indian-luxury",
+      "city": "jaipur",
+      "climate": "hot-dry",
+      "property": "villa",
+      "budgetTier": "luxury",
+      "budget": {
+        "low": 202000,
+        "high": 384000,
+        "basis": "Indicative model estimate for about 28 sq ft, luxury finish (not a quotation)"
+      },
+      "areaSqft": 28,
+      "elements": [
+        "mirrors",
+        "lighting",
+        "decor-accessories"
+      ],
+      "materials": [
+        "marble",
+        "sandstone",
+        "cp-fittings"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/jewel-box-powder-room-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of jewel-box powder room: a indian luxury powder room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/jewel-box-powder-room-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from jewel-box powder room."
+        },
+        {
+          "src": "assets/illustrations/designs/jewel-box-powder-room-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the powder room in indian luxury style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": true,
+      "added": "2026-10-27",
+      "popularity": 62
+    },
+    {
+      "id": "teak-mandir-with-brass-bells",
+      "title": "Teak mandir with brass bells",
+      "summary": "A carved teak mandir with a raised platform, brass bells and concealed lighting behind a jaali back panel.",
+      "category": "pooja-room",
+      "style": "traditional-south-indian",
+      "city": "chennai",
+      "climate": "humid-coastal",
+      "property": "3bhk",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 100000,
+        "high": 168000,
+        "basis": "Indicative model estimate for about 25 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 25,
+      "elements": [
+        "decor-accessories",
+        "lighting",
+        "partitions"
+      ],
+      "materials": [
+        "solid-wood",
+        "brass-hardware",
+        "marble"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/teak-mandir-with-brass-bells-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of teak mandir with brass bells: a traditional south indian pooja or prayer room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/teak-mandir-with-brass-bells-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from teak mandir with brass bells."
+        },
+        {
+          "src": "assets/illustrations/designs/teak-mandir-with-brass-bells-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the pooja or prayer room in traditional south indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-28",
+      "popularity": 99
+    },
+    {
+      "id": "pooja-niche-in-the-living-room",
+      "title": "Pooja niche in the living room",
+      "summary": "A compact pooja niche with sliding fluted doors, a marble base and drawers for diyas and incense.",
+      "category": "pooja-room",
+      "style": "contemporary-indian",
+      "city": "ahmedabad",
+      "climate": "hot-dry",
+      "property": "2bhk",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 33000,
+        "high": 55000,
+        "basis": "Indicative model estimate for about 15 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 15,
+      "elements": [
+        "storage-systems",
+        "decor-accessories"
+      ],
+      "materials": [
+        "marble",
+        "mdf",
+        "pu-finish"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/pooja-niche-in-the-living-room-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of pooja niche in the living room: a contemporary indian pooja or prayer room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/pooja-niche-in-the-living-room-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from pooja niche in the living room."
+        },
+        {
+          "src": "assets/illustrations/designs/pooja-niche-in-the-living-room-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the pooja or prayer room in contemporary indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-01",
+      "popularity": 36
+    },
+    {
+      "id": "arched-marble-prayer-room",
+      "title": "Arched marble prayer room",
+      "summary": "A white marble prayer room with an arched entry, carved jaali and a brass diya shelf.",
+      "category": "pooja-room",
+      "style": "rajasthani",
+      "city": "jaipur",
+      "climate": "hot-dry",
+      "property": "independent-house",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 113000,
+        "high": 191000,
+        "basis": "Indicative model estimate for about 30 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 30,
+      "elements": [
+        "partitions",
+        "flooring"
+      ],
+      "materials": [
+        "marble",
+        "brass-hardware",
+        "sandstone"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/arched-marble-prayer-room-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of arched marble prayer room: a rajasthani pooja or prayer room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/arched-marble-prayer-room-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from arched marble prayer room."
+        },
+        {
+          "src": "assets/illustrations/designs/arched-marble-prayer-room-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the pooja or prayer room in rajasthani style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-02",
+      "popularity": 73
+    },
+    {
+      "id": "video-call-ready-corner-office",
+      "title": "Video-call-ready corner office",
+      "summary": "A slatted backdrop for calls, a deep desk, acoustic pinboard and cable management in a spare corner.",
+      "category": "home-office",
+      "style": "japandi",
+      "city": "bengaluru",
+      "climate": "moderate",
+      "property": "2bhk",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 132000,
+        "high": 220000,
+        "basis": "Indicative model estimate for about 80 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 80,
+      "elements": [
+        "acoustics",
+        "storage-systems",
+        "lighting"
+      ],
+      "materials": [
+        "veneer",
+        "engineered-wood",
+        "laminate"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/video-call-ready-corner-office-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of video-call-ready corner office: a japandi home office seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/video-call-ready-corner-office-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from video-call-ready corner office."
+        },
+        {
+          "src": "assets/illustrations/designs/video-call-ready-corner-office-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the home office in japandi style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-03",
+      "popularity": 10
+    },
+    {
+      "id": "metal-frame-workroom",
+      "title": "Metal-frame workroom",
+      "summary": "Black metal shelving, a long desk for two and task lights for a couple who both work from home.",
+      "category": "home-office",
+      "style": "industrial",
+      "city": "hyderabad",
+      "climate": "composite",
+      "property": "3bhk",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 150000,
+        "high": 250000,
+        "basis": "Indicative model estimate for about 100 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 100,
+      "elements": [
+        "modular-furniture",
+        "lighting"
+      ],
+      "materials": [
+        "aluminium",
+        "solid-wood",
+        "cement-finish"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/metal-frame-workroom-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of metal-frame workroom: a industrial home office seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/metal-frame-workroom-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from metal-frame workroom."
+        },
+        {
+          "src": "assets/illustrations/designs/metal-frame-workroom-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the home office in industrial style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-04",
+      "popularity": 47
+    },
+    {
+      "id": "exam-season-study-room",
+      "title": "Exam-season study room",
+      "summary": "A long study table for siblings, a pegboard wall and good daylight with glare-free blinds.",
+      "category": "study-room",
+      "style": "modern-urban-indian",
+      "city": "delhi-ncr",
+      "climate": "composite",
+      "property": "3bhk",
+      "budgetTier": "essential",
+      "budget": {
+        "low": 89000,
+        "high": 149000,
+        "basis": "Indicative model estimate for about 90 sq ft, essential finish (not a quotation)"
+      },
+      "areaSqft": 90,
+      "elements": [
+        "storage-systems",
+        "curtains-blinds"
+      ],
+      "materials": [
+        "laminate",
+        "plywood",
+        "emulsion-paint"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/exam-season-study-room-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of exam-season study room: a modern urban indian study room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/exam-season-study-room-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from exam-season study room."
+        },
+        {
+          "src": "assets/illustrations/designs/exam-season-study-room-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the study room in modern urban indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-05",
+      "popularity": 84
+    },
+    {
+      "id": "teak-library-with-reading-chair",
+      "title": "Teak library with reading chair",
+      "summary": "Floor-to-ceiling teak shelves with a rolling ladder, a planter's chair and green shutters.",
+      "category": "library",
+      "style": "bengali-heritage",
+      "city": "kolkata",
+      "climate": "humid-coastal",
+      "property": "heritage-home",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 482000,
+        "high": 809000,
+        "basis": "Indicative model estimate for about 130 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 130,
+      "elements": [
+        "storage-systems",
+        "lighting"
+      ],
+      "materials": [
+        "solid-wood",
+        "blockboard",
+        "red-oxide-floor"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/teak-library-with-reading-chair-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of teak library with reading chair: a bengali heritage library seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/teak-library-with-reading-chair-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from teak library with reading chair."
+        },
+        {
+          "src": "assets/illustrations/designs/teak-library-with-reading-chair-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the library in bengali heritage style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-06",
+      "popularity": 21
+    },
+    {
+      "id": "saree-friendly-walk-in-wardrobe",
+      "title": "Saree-friendly walk-in wardrobe",
+      "summary": "Shallow saree drawers, lehenga hanging, jewellery trays and glass-front lighting for a walk-in wardrobe.",
+      "category": "walk-in-wardrobe",
+      "style": "indian-luxury",
+      "city": "delhi-ncr",
+      "climate": "composite",
+      "property": "4bhk",
+      "budgetTier": "luxury",
+      "budget": {
+        "low": 679000,
+        "high": 1294000,
+        "basis": "Indicative model estimate for about 70 sq ft, luxury finish (not a quotation)"
+      },
+      "areaSqft": 70,
+      "elements": [
+        "wardrobes",
+        "lighting",
+        "mirrors"
+      ],
+      "materials": [
+        "veneer",
+        "glass",
+        "kitchen-hardware"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/saree-friendly-walk-in-wardrobe-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of saree-friendly walk-in wardrobe: a indian luxury walk-in wardrobe seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/saree-friendly-walk-in-wardrobe-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from saree-friendly walk-in wardrobe."
+        },
+        {
+          "src": "assets/illustrations/designs/saree-friendly-walk-in-wardrobe-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the walk-in wardrobe in indian luxury style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-07",
+      "popularity": 58
+    },
+    {
+      "id": "fluted-dresser-with-vanity-lights",
+      "title": "Fluted dresser with vanity lights",
+      "summary": "A fluted dresser, round vanity mirror and pouffe tucked into a dressing alcove between bedroom and bath.",
+      "category": "dressing-room",
+      "style": "art-deco",
+      "city": "mumbai",
+      "climate": "humid-coastal",
+      "property": "3bhk",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 207000,
+        "high": 348000,
+        "basis": "Indicative model estimate for about 45 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 45,
+      "elements": [
+        "mirrors",
+        "lighting"
+      ],
+      "materials": [
+        "veneer",
+        "brass-hardware"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/fluted-dresser-with-vanity-lights-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of fluted dresser with vanity lights: a art deco dressing room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/fluted-dresser-with-vanity-lights-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from fluted dresser with vanity lights."
+        },
+        {
+          "src": "assets/illustrations/designs/fluted-dresser-with-vanity-lights-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the dressing room in art deco style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-08",
+      "popularity": 95
+    },
+    {
+      "id": "shoe-storage-foyer-with-seat",
+      "title": "Shoe-storage foyer with seat",
+      "summary": "A ventilated shoe cabinet with a bench, key hooks and a brass bell — a tidy first impression.",
+      "category": "foyer",
+      "style": "contemporary-indian",
+      "city": "pune",
+      "climate": "moderate",
+      "property": "3bhk",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 81000,
+        "high": 135000,
+        "basis": "Indicative model estimate for about 45 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 45,
+      "elements": [
+        "storage-systems",
+        "decor-accessories"
+      ],
+      "materials": [
+        "plywood",
+        "cane-rattan",
+        "brass-hardware"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/shoe-storage-foyer-with-seat-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of shoe-storage foyer with seat: a contemporary indian foyer and entrance seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/shoe-storage-foyer-with-seat-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from shoe-storage foyer with seat."
+        },
+        {
+          "src": "assets/illustrations/designs/shoe-storage-foyer-with-seat-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the foyer and entrance in contemporary indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": true,
+      "added": "2026-10-09",
+      "popularity": 32
+    },
+    {
+      "id": "carved-door-entrance",
+      "title": "Carved door entrance",
+      "summary": "A carved teak main door, patterned tile threshold and a brass urli with floating flowers.",
+      "category": "foyer",
+      "style": "chettinad",
+      "city": "coimbatore",
+      "climate": "moderate",
+      "property": "independent-house",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 170000,
+        "high": 286000,
+        "basis": "Indicative model estimate for about 60 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 60,
+      "elements": [
+        "doors-windows",
+        "tiles"
+      ],
+      "materials": [
+        "solid-wood",
+        "athangudi-tiles",
+        "brass-hardware"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/carved-door-entrance-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of carved door entrance: a chettinad foyer and entrance seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/carved-door-entrance-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from carved door entrance."
+        },
+        {
+          "src": "assets/illustrations/designs/carved-door-entrance-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the foyer and entrance in chettinad style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-10",
+      "popularity": 69
+    },
+    {
+      "id": "gallery-corridor",
+      "title": "Gallery corridor",
+      "summary": "A narrow passage turned into a gallery with picture lights and a slim ledge for family photographs.",
+      "category": "corridor",
+      "style": "minimalist",
+      "city": "chennai",
+      "climate": "humid-coastal",
+      "property": "3bhk",
+      "budgetTier": "essential",
+      "budget": {
+        "low": 27000,
+        "high": 45000,
+        "basis": "Indicative model estimate for about 60 sq ft, essential finish (not a quotation)"
+      },
+      "areaSqft": 60,
+      "elements": [
+        "lighting",
+        "wall-design"
+      ],
+      "materials": [
+        "emulsion-paint",
+        "mdf"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/gallery-corridor-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of gallery corridor: a minimalist corridor seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/gallery-corridor-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from gallery corridor."
+        },
+        {
+          "src": "assets/illustrations/designs/gallery-corridor-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the corridor in minimalist style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-11",
+      "popularity": 6
+    },
+    {
+      "id": "floating-stair-with-storage-below",
+      "title": "Floating stair with storage below",
+      "summary": "Wood-clad treads on a steel stringer, with drawers built into the space under the stairs.",
+      "category": "staircase",
+      "style": "industrial",
+      "city": "ahmedabad",
+      "climate": "hot-dry",
+      "property": "duplex",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 179000,
+        "high": 300000,
+        "basis": "Indicative model estimate for about 80 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 80,
+      "elements": [
+        "storage-systems",
+        "lighting"
+      ],
+      "materials": [
+        "solid-wood",
+        "glass",
+        "aluminium"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/floating-stair-with-storage-below-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of floating stair with storage below: a industrial staircase seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/floating-stair-with-storage-below-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from floating stair with storage below."
+        },
+        {
+          "src": "assets/illustrations/designs/floating-stair-with-storage-below-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the staircase in industrial style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-12",
+      "popularity": 43
+    },
+    {
+      "id": "utility-balcony-laundry",
+      "title": "Utility balcony laundry",
+      "summary": "A stacked washer-dryer, a deep sink, a ceiling-mounted drying rack and closed storage for cleaning supplies.",
+      "category": "utility",
+      "style": "modern-urban-indian",
+      "city": "mumbai",
+      "climate": "humid-coastal",
+      "property": "2bhk",
+      "budgetTier": "essential",
+      "budget": {
+        "low": 40000,
+        "high": 66000,
+        "basis": "Indicative model estimate for about 35 sq ft, essential finish (not a quotation)"
+      },
+      "areaSqft": 35,
+      "elements": [
+        "storage-systems",
+        "ventilation-comfort"
+      ],
+      "materials": [
+        "marine-plywood",
+        "ceramic-tiles",
+        "waterproofing"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/utility-balcony-laundry-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of utility balcony laundry: a modern urban indian utility and laundry seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/utility-balcony-laundry-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from utility balcony laundry."
+        },
+        {
+          "src": "assets/illustrations/designs/utility-balcony-laundry-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the utility and laundry in modern urban indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-13",
+      "popularity": 80
+    },
+    {
+      "id": "jhoola-balcony-garden",
+      "title": "Jhoola balcony garden",
+      "summary": "A cane jhoola, vertical planters and outdoor-safe fairy lights on a small city balcony.",
+      "category": "balcony",
+      "style": "bohemian",
+      "city": "bengaluru",
+      "climate": "moderate",
+      "property": "2bhk",
+      "budgetTier": "essential",
+      "budget": {
+        "low": 30000,
+        "high": 50000,
+        "basis": "Indicative model estimate for about 50 sq ft, essential finish (not a quotation)"
+      },
+      "areaSqft": 50,
+      "elements": [
+        "soft-furnishings",
+        "decor-accessories"
+      ],
+      "materials": [
+        "cane-rattan",
+        "terracotta-tiles"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/jhoola-balcony-garden-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of jhoola balcony garden: a bohemian balcony seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/jhoola-balcony-garden-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from jhoola balcony garden."
+        },
+        {
+          "src": "assets/illustrations/designs/jhoola-balcony-garden-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the balcony in bohemian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-14",
+      "popularity": 17
+    },
+    {
+      "id": "monsoon-proof-sit-out",
+      "title": "Monsoon-proof sit-out",
+      "summary": "Weather-resistant seating, terracotta floor and roll-down blinds for rain on a Goan balcony.",
+      "category": "balcony",
+      "style": "coastal-indian",
+      "city": "goa",
+      "climate": "heavy-monsoon",
+      "property": "2bhk",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 50000,
+        "high": 83000,
+        "basis": "Indicative model estimate for about 55 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 55,
+      "elements": [
+        "curtains-blinds",
+        "flooring"
+      ],
+      "materials": [
+        "terracotta-tiles",
+        "upvc-windows"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/monsoon-proof-sit-out-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of monsoon-proof sit-out: a coastal indian balcony seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/monsoon-proof-sit-out-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from monsoon-proof sit-out."
+        },
+        {
+          "src": "assets/illustrations/designs/monsoon-proof-sit-out-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the balcony in coastal indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-15",
+      "popularity": 54
+    },
+    {
+      "id": "rooftop-evening-terrace",
+      "title": "Rooftop evening terrace",
+      "summary": "A shaded pergola, built-in stone seating and string lighting for summer evenings on a Jaipur roof.",
+      "category": "terrace",
+      "style": "contemporary-indian",
+      "city": "jaipur",
+      "climate": "hot-dry",
+      "property": "independent-house",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 213000,
+        "high": 354000,
+        "basis": "Indicative model estimate for about 300 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 300,
+      "elements": [
+        "lighting",
+        "flooring"
+      ],
+      "materials": [
+        "sandstone",
+        "kota-stone",
+        "waterproofing"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/rooftop-evening-terrace-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of rooftop evening terrace: a contemporary indian terrace seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/rooftop-evening-terrace-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from rooftop evening terrace."
+        },
+        {
+          "src": "assets/illustrations/designs/rooftop-evening-terrace-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the terrace in contemporary indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-16",
+      "popularity": 91
+    },
+    {
+      "id": "rain-watching-verandah",
+      "title": "Rain-watching verandah",
+      "summary": "Deep eaves, a polished dark floor, a built-in bench and planter's chairs to watch the monsoon.",
+      "category": "verandah",
+      "style": "kerala",
+      "city": "kochi",
+      "climate": "heavy-monsoon",
+      "property": "independent-house",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 126000,
+        "high": 209000,
+        "basis": "Indicative model estimate for about 140 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 140,
+      "elements": [
+        "flooring",
+        "ventilation-comfort"
+      ],
+      "materials": [
+        "red-oxide-floor",
+        "solid-wood",
+        "terracotta-tiles"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/rain-watching-verandah-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of rain-watching verandah: a kerala-inspired verandah seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/rain-watching-verandah-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from rain-watching verandah."
+        },
+        {
+          "src": "assets/illustrations/designs/rain-watching-verandah-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the verandah in kerala-inspired style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": true,
+      "added": "2026-10-17",
+      "popularity": 28
+    },
+    {
+      "id": "thinnai-front-verandah",
+      "title": "Thinnai front verandah",
+      "summary": "Raised thinnai platforms flanking the entrance, carved posts and a kolam-ready stone floor.",
+      "category": "verandah",
+      "style": "traditional-south-indian",
+      "city": "coimbatore",
+      "climate": "moderate",
+      "property": "heritage-home",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 194000,
+        "high": 327000,
+        "basis": "Indicative model estimate for about 120 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 120,
+      "elements": [
+        "flooring",
+        "doors-windows"
+      ],
+      "materials": [
+        "granite",
+        "solid-wood",
+        "lime-plaster"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/thinnai-front-verandah-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of thinnai front verandah: a traditional south indian verandah seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/thinnai-front-verandah-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from thinnai front verandah."
+        },
+        {
+          "src": "assets/illustrations/designs/thinnai-front-verandah-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the verandah in traditional south indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-18",
+      "popularity": 65
+    },
+    {
+      "id": "velvet-recliner-theatre",
+      "title": "Velvet recliner theatre",
+      "summary": "Acoustic fabric walls, recliners on a riser and star-ceiling fibre lights in a dedicated media room.",
+      "category": "home-theatre",
+      "style": "indian-luxury",
+      "city": "hyderabad",
+      "climate": "composite",
+      "property": "villa",
+      "budgetTier": "luxury",
+      "budget": {
+        "low": 1863000,
+        "high": 3548000,
+        "basis": "Indicative model estimate for about 220 sq ft, luxury finish (not a quotation)"
+      },
+      "areaSqft": 220,
+      "elements": [
+        "acoustics",
+        "lighting",
+        "upholstery",
+        "smart-home"
+      ],
+      "materials": [
+        "veneer",
+        "gypsum-board",
+        "engineered-wood"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/velvet-recliner-theatre-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of velvet recliner theatre: a indian luxury home theatre seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/velvet-recliner-theatre-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from velvet recliner theatre."
+        },
+        {
+          "src": "assets/illustrations/designs/velvet-recliner-theatre-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the home theatre in indian luxury style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-19",
+      "popularity": 2
+    },
+    {
+      "id": "rubber-floored-home-gym",
+      "title": "Rubber-floored home gym",
+      "summary": "Shock-absorbing flooring, a full mirror wall and good airflow in a converted spare room.",
+      "category": "home-gym",
+      "style": "industrial",
+      "city": "pune",
+      "climate": "moderate",
+      "property": "duplex",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 175000,
+        "high": 292000,
+        "basis": "Indicative model estimate for about 120 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 120,
+      "elements": [
+        "mirrors",
+        "ventilation-comfort",
+        "flooring"
+      ],
+      "materials": [
+        "glass",
+        "cement-finish"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/rubber-floored-home-gym-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of rubber-floored home gym: a industrial home gym seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/rubber-floored-home-gym-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from rubber-floored home gym."
+        },
+        {
+          "src": "assets/illustrations/designs/rubber-floored-home-gym-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the home gym in industrial style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-20",
+      "popularity": 39
+    },
+    {
+      "id": "yoga-and-stretching-room",
+      "title": "Yoga and stretching room",
+      "summary": "A quiet room with natural flooring, a bolster cupboard and soft indirect light for yoga.",
+      "category": "home-gym",
+      "style": "japandi",
+      "city": "bengaluru",
+      "climate": "moderate",
+      "property": "3bhk",
+      "budgetTier": "essential",
+      "budget": {
+        "low": 89000,
+        "high": 149000,
+        "basis": "Indicative model estimate for about 100 sq ft, essential finish (not a quotation)"
+      },
+      "areaSqft": 100,
+      "elements": [
+        "flooring",
+        "lighting"
+      ],
+      "materials": [
+        "engineered-wood",
+        "lime-plaster"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/yoga-and-stretching-room-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of yoga and stretching room: a japandi home gym seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/yoga-and-stretching-room-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from yoga and stretching room."
+        },
+        {
+          "src": "assets/illustrations/designs/yoga-and-stretching-room-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the home gym in japandi style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-21",
+      "popularity": 76
+    },
+    {
+      "id": "guest-cum-study-flexi-room",
+      "title": "Guest-cum-study flexi room",
+      "summary": "A wall bed that folds into a desk, with a sliding partition to open the room into the living area.",
+      "category": "multipurpose-room",
+      "style": "modern-urban-indian",
+      "city": "mumbai",
+      "climate": "humid-coastal",
+      "property": "compact-urban",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 190000,
+        "high": 316000,
+        "basis": "Indicative model estimate for about 110 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 110,
+      "elements": [
+        "modular-furniture",
+        "partitions"
+      ],
+      "materials": [
+        "hdhmr",
+        "kitchen-hardware",
+        "glass"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/guest-cum-study-flexi-room-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of guest-cum-study flexi room: a modern urban indian multipurpose room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/guest-cum-study-flexi-room-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from guest-cum-study flexi room."
+        },
+        {
+          "src": "assets/illustrations/designs/guest-cum-study-flexi-room-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the multipurpose room in modern urban indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-22",
+      "popularity": 13
+    },
+    {
+      "id": "labelled-store-room",
+      "title": "Labelled store room",
+      "summary": "Adjustable shelving, sealed bins and a ventilated door for seasonal storage and festive décor.",
+      "category": "storage-room",
+      "style": "minimalist",
+      "city": "delhi-ncr",
+      "climate": "composite",
+      "property": "3bhk",
+      "budgetTier": "essential",
+      "budget": {
+        "low": 32000,
+        "high": 53000,
+        "basis": "Indicative model estimate for about 40 sq ft, essential finish (not a quotation)"
+      },
+      "areaSqft": 40,
+      "elements": [
+        "storage-systems"
+      ],
+      "materials": [
+        "plywood",
+        "laminate"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/labelled-store-room-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of labelled store room: a minimalist storage room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/labelled-store-room-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from labelled store room."
+        },
+        {
+          "src": "assets/illustrations/designs/labelled-store-room-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the storage room in minimalist style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-23",
+      "popularity": 50
+    },
+    {
+      "id": "studio-with-a-sofa-bed-zone",
+      "title": "Studio with a sofa-bed zone",
+      "summary": "A studio apartment zoned with a rug, a sofa-bed and a slim ceiling-hung curtain instead of walls.",
+      "category": "living-room",
+      "style": "modern-urban-indian",
+      "city": "mumbai",
+      "climate": "humid-coastal",
+      "property": "studio",
+      "budgetTier": "essential",
+      "budget": {
+        "low": 177000,
+        "high": 295000,
+        "basis": "Indicative model estimate for about 180 sq ft, essential finish (not a quotation)"
+      },
+      "areaSqft": 180,
+      "elements": [
+        "partitions",
+        "modular-furniture",
+        "curtains-blinds"
+      ],
+      "materials": [
+        "laminate",
+        "vitrified-tiles"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/studio-with-a-sofa-bed-zone-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of studio with a sofa-bed zone: a modern urban indian living room and drawing room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/studio-with-a-sofa-bed-zone-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from studio with a sofa-bed zone."
+        },
+        {
+          "src": "assets/illustrations/designs/studio-with-a-sofa-bed-zone-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the living room and drawing room in modern urban indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-24",
+      "popularity": 87
+    },
+    {
+      "id": "no-drill-rental-refresh",
+      "title": "No-drill rental refresh",
+      "summary": "A renter-friendly makeover with peel-safe wall decals, plug-in lights, rugs and freestanding storage.",
+      "category": "living-room",
+      "style": "scandinavian",
+      "city": "pune",
+      "climate": "moderate",
+      "property": "rental",
+      "budgetTier": "essential",
+      "budget": {
+        "low": 138000,
+        "high": 230000,
+        "basis": "Indicative model estimate for about 180 sq ft, essential finish (not a quotation)"
+      },
+      "areaSqft": 180,
+      "elements": [
+        "soft-furnishings",
+        "lighting",
+        "decor-accessories"
+      ],
+      "materials": [
+        "laminate-flooring",
+        "cane-rattan"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/no-drill-rental-refresh-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of no-drill rental refresh: a scandinavian living room and drawing room seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/no-drill-rental-refresh-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from no-drill rental refresh."
+        },
+        {
+          "src": "assets/illustrations/designs/no-drill-rental-refresh-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the living room and drawing room in scandinavian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-25",
+      "popularity": 24
+    },
+    {
+      "id": "winter-warm-row-house-bedroom",
+      "title": "Winter-warm row-house bedroom",
+      "summary": "Layered rugs, insulated curtains and a padded headboard for a composite-climate winter, swapped for cotton in summer.",
+      "category": "master-bedroom",
+      "style": "modern-urban-indian",
+      "city": "chandigarh",
+      "climate": "composite",
+      "property": "row-house",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 284000,
+        "high": 474000,
+        "basis": "Indicative model estimate for about 170 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 170,
+      "elements": [
+        "curtains-blinds",
+        "soft-furnishings",
+        "flooring"
+      ],
+      "materials": [
+        "engineered-wood",
+        "plywood",
+        "laminate"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/winter-warm-row-house-bedroom-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of winter-warm row-house bedroom: a modern urban indian master bedroom seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/winter-warm-row-house-bedroom-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from winter-warm row-house bedroom."
+        },
+        {
+          "src": "assets/illustrations/designs/winter-warm-row-house-bedroom-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the master bedroom in modern urban indian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-26",
+      "popularity": 61
+    },
+    {
+      "id": "focus-first-startup-office",
+      "title": "Focus-first startup office",
+      "summary": "Rows of benching, two phone booths and a breakout pantry with acoustic baffles above.",
+      "category": "office",
+      "style": "minimalist",
+      "city": "bengaluru",
+      "climate": "moderate",
+      "property": "compact-urban",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 4125000,
+        "high": 6930000,
+        "basis": "Indicative model estimate for about 1500 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 1500,
+      "elements": [
+        "acoustics",
+        "lighting",
+        "partitions"
+      ],
+      "materials": [
+        "laminate",
+        "glass",
+        "gypsum-board"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/focus-first-startup-office-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of focus-first startup office: a minimalist offices seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/focus-first-startup-office-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from focus-first startup office."
+        },
+        {
+          "src": "assets/illustrations/designs/focus-first-startup-office-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the offices in minimalist style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-27",
+      "popularity": 98
+    },
+    {
+      "id": "warehouse-co-working-floor",
+      "title": "Warehouse co-working floor",
+      "summary": "Exposed services, community tables, glass cabins and a coffee bar in a converted warehouse.",
+      "category": "coworking",
+      "style": "industrial",
+      "city": "pune",
+      "climate": "moderate",
+      "property": "compact-urban",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 4620000,
+        "high": 7700000,
+        "basis": "Indicative model estimate for about 2800 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 2800,
+      "elements": [
+        "partitions",
+        "lighting",
+        "acoustics"
+      ],
+      "materials": [
+        "glass",
+        "aluminium",
+        "cement-finish"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/warehouse-co-working-floor-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of warehouse co-working floor: a industrial co-working spaces seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/warehouse-co-working-floor-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from warehouse co-working floor."
+        },
+        {
+          "src": "assets/illustrations/designs/warehouse-co-working-floor-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the co-working spaces in industrial style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-28",
+      "popularity": 35
+    },
+    {
+      "id": "handloom-boutique",
+      "title": "Handloom boutique",
+      "summary": "Arched display niches, a brass-trimmed cash counter and soft light that shows true textile colour.",
+      "category": "retail",
+      "style": "indo-contemporary",
+      "city": "jaipur",
+      "climate": "hot-dry",
+      "property": "independent-house",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 1985000,
+        "high": 3334000,
+        "basis": "Indicative model estimate for about 600 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 600,
+      "elements": [
+        "lighting",
+        "storage-systems"
+      ],
+      "materials": [
+        "veneer",
+        "brass-hardware",
+        "terrazzo"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/handloom-boutique-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of handloom boutique: a indo-contemporary retail stores seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/handloom-boutique-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from handloom boutique."
+        },
+        {
+          "src": "assets/illustrations/designs/handloom-boutique-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the retail stores in indo-contemporary style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-01",
+      "popularity": 72
+    },
+    {
+      "id": "chettinad-dining-hall",
+      "title": "Chettinad dining hall",
+      "summary": "Athangudi floors, teak pillars and oxide-coloured walls for a restaurant serving regional cuisine.",
+      "category": "restaurant",
+      "style": "chettinad",
+      "city": "chennai",
+      "climate": "humid-coastal",
+      "property": "independent-house",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 6720000,
+        "high": 11290000,
+        "basis": "Indicative model estimate for about 1600 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 1600,
+      "elements": [
+        "tiles",
+        "lighting",
+        "decor-accessories"
+      ],
+      "materials": [
+        "athangudi-tiles",
+        "solid-wood",
+        "lime-plaster"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/chettinad-dining-hall-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of chettinad dining hall: a chettinad restaurants seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/chettinad-dining-hall-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from chettinad dining hall."
+        },
+        {
+          "src": "assets/illustrations/designs/chettinad-dining-hall-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the restaurants in chettinad style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": true,
+      "added": "2026-10-02",
+      "popularity": 9
+    },
+    {
+      "id": "garden-caf-with-cane-lights",
+      "title": "Garden café with cane lights",
+      "summary": "Mismatched cane chairs, terracotta floors and plant shelves for a relaxed Goan café.",
+      "category": "cafe",
+      "style": "bohemian",
+      "city": "goa",
+      "climate": "heavy-monsoon",
+      "property": "independent-house",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 1213000,
+        "high": 2021000,
+        "basis": "Indicative model estimate for about 550 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 550,
+      "elements": [
+        "lighting",
+        "flooring"
+      ],
+      "materials": [
+        "cane-rattan",
+        "terracotta-tiles"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/garden-caf-with-cane-lights-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of garden café with cane lights: a bohemian cafés seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/garden-caf-with-cane-lights-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from garden café with cane lights."
+        },
+        {
+          "src": "assets/illustrations/designs/garden-caf-with-cane-lights-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the cafés in bohemian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-03",
+      "popularity": 46
+    },
+    {
+      "id": "deco-chai-bar",
+      "title": "Deco chai bar",
+      "summary": "A terrazzo counter, curved banquettes and fluted glass for a small all-day chai bar.",
+      "category": "cafe",
+      "style": "art-deco",
+      "city": "mumbai",
+      "climate": "humid-coastal",
+      "property": "compact-urban",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 1811000,
+        "high": 3043000,
+        "basis": "Indicative model estimate for about 450 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 450,
+      "elements": [
+        "countertops",
+        "upholstery"
+      ],
+      "materials": [
+        "terrazzo",
+        "glass",
+        "brass-hardware"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/deco-chai-bar-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of deco chai bar: a art deco cafés seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/deco-chai-bar-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from deco chai bar."
+        },
+        {
+          "src": "assets/illustrations/designs/deco-chai-bar-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the cafés in art deco style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-04",
+      "popularity": 83
+    },
+    {
+      "id": "light-washed-salon",
+      "title": "Light-washed salon",
+      "summary": "Backlit mirrors, durable vinyl-free floors and hidden storage for products in a calm salon.",
+      "category": "salon",
+      "style": "minimalist",
+      "city": "hyderabad",
+      "climate": "composite",
+      "property": "compact-urban",
+      "budgetTier": "premium",
+      "budget": {
+        "low": 1875000,
+        "high": 3150000,
+        "basis": "Indicative model estimate for about 500 sq ft, premium finish (not a quotation)"
+      },
+      "areaSqft": 500,
+      "elements": [
+        "mirrors",
+        "lighting",
+        "storage-systems"
+      ],
+      "materials": [
+        "solid-surface",
+        "vitrified-tiles",
+        "glass"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/light-washed-salon-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of light-washed salon: a minimalist salons seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/light-washed-salon-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from light-washed salon."
+        },
+        {
+          "src": "assets/illustrations/designs/light-washed-salon-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the salons in minimalist style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-05",
+      "popularity": 20
+    },
+    {
+      "id": "calm-family-clinic",
+      "title": "Calm family clinic",
+      "summary": "Wipe-clean surfaces, a child-height reception counter and soft daylight for a neighbourhood clinic.",
+      "category": "clinic",
+      "style": "scandinavian",
+      "city": "lucknow",
+      "climate": "composite",
+      "property": "compact-urban",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 990000,
+        "high": 1650000,
+        "basis": "Indicative model estimate for about 500 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 500,
+      "elements": [
+        "lighting",
+        "flooring"
+      ],
+      "materials": [
+        "solid-surface",
+        "vitrified-tiles",
+        "laminate"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/calm-family-clinic-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of calm family clinic: a scandinavian clinics seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/calm-family-clinic-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from calm family clinic."
+        },
+        {
+          "src": "assets/illustrations/designs/calm-family-clinic-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the clinics in scandinavian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-06",
+      "popularity": 57
+    },
+    {
+      "id": "haveli-guest-suite",
+      "title": "Haveli guest suite",
+      "summary": "A heritage haveli room with fresco-inspired walls, a carved bed and jharokha seating by the window.",
+      "category": "boutique-hotel",
+      "style": "rajasthani",
+      "city": "jaipur",
+      "climate": "hot-dry",
+      "property": "heritage-home",
+      "budgetTier": "luxury",
+      "budget": {
+        "low": 2758000,
+        "high": 5253000,
+        "basis": "Indicative model estimate for about 380 sq ft, luxury finish (not a quotation)"
+      },
+      "areaSqft": 380,
+      "elements": [
+        "wall-design",
+        "doors-windows",
+        "upholstery"
+      ],
+      "materials": [
+        "lime-plaster",
+        "solid-wood",
+        "marble"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/haveli-guest-suite-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of haveli guest suite: a rajasthani boutique hotels seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/haveli-guest-suite-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from haveli guest suite."
+        },
+        {
+          "src": "assets/illustrations/designs/haveli-guest-suite-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the boutique hotels in rajasthani style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-07",
+      "popularity": 94
+    },
+    {
+      "id": "banquet-foyer-with-marble-inlay",
+      "title": "Banquet foyer with marble inlay",
+      "summary": "A grand pre-function foyer with inlaid marble, brass chandeliers and upholstered wall panels.",
+      "category": "hospitality",
+      "style": "indian-luxury",
+      "city": "delhi-ncr",
+      "climate": "composite",
+      "property": "independent-house",
+      "budgetTier": "luxury",
+      "budget": {
+        "low": 10915000,
+        "high": 20790000,
+        "basis": "Indicative model estimate for about 1500 sq ft, luxury finish (not a quotation)"
+      },
+      "areaSqft": 1500,
+      "elements": [
+        "flooring",
+        "lighting",
+        "wallpaper-panels"
+      ],
+      "materials": [
+        "marble",
+        "brass-hardware",
+        "veneer"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/banquet-foyer-with-marble-inlay-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of banquet foyer with marble inlay: a indian luxury hospitality spaces seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/banquet-foyer-with-marble-inlay-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from banquet foyer with marble inlay."
+        },
+        {
+          "src": "assets/illustrations/designs/banquet-foyer-with-marble-inlay-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the hospitality spaces in indian luxury style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-08",
+      "popularity": 31
+    },
+    {
+      "id": "warm-wood-reception",
+      "title": "Warm-wood reception",
+      "summary": "A slatted reception desk, plants and a low lounge for a design studio's waiting area.",
+      "category": "reception",
+      "style": "japandi",
+      "city": "bengaluru",
+      "climate": "moderate",
+      "property": "compact-urban",
+      "budgetTier": "comfort",
+      "budget": {
+        "low": 594000,
+        "high": 990000,
+        "basis": "Indicative model estimate for about 300 sq ft, comfort finish (not a quotation)"
+      },
+      "areaSqft": 300,
+      "elements": [
+        "wall-design",
+        "lighting"
+      ],
+      "materials": [
+        "veneer",
+        "engineered-wood"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/warm-wood-reception-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of warm-wood reception: a japandi reception and waiting areas seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/warm-wood-reception-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from warm-wood reception."
+        },
+        {
+          "src": "assets/illustrations/designs/warm-wood-reception-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the reception and waiting areas in japandi style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-09",
+      "popularity": 68
+    },
+    {
+      "id": "flexible-preschool-classroom",
+      "title": "Flexible preschool classroom",
+      "summary": "Movable low tables, rounded edges, soft-floor play zone and wall storage at child height.",
+      "category": "education",
+      "style": "scandinavian",
+      "city": "chennai",
+      "climate": "humid-coastal",
+      "property": "independent-house",
+      "budgetTier": "essential",
+      "budget": {
+        "low": 765000,
+        "high": 1276000,
+        "basis": "Indicative model estimate for about 900 sq ft, essential finish (not a quotation)"
+      },
+      "areaSqft": 900,
+      "elements": [
+        "storage-systems",
+        "flooring",
+        "acoustics"
+      ],
+      "materials": [
+        "plywood",
+        "laminate",
+        "emulsion-paint"
+      ],
+      "images": [
+        {
+          "src": "assets/illustrations/designs/flexible-preschool-classroom-1.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "room",
+          "alt": "Illustration of flexible preschool classroom: a scandinavian educational spaces seen from the doorway."
+        },
+        {
+          "src": "assets/illustrations/designs/flexible-preschool-classroom-2.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "detail",
+          "alt": "Close-up illustration of materials and details from flexible preschool classroom."
+        },
+        {
+          "src": "assets/illustrations/designs/flexible-preschool-classroom-3.svg",
+          "width": 1200,
+          "height": 900,
+          "view": "corner",
+          "alt": "Corner view illustration of the educational spaces in scandinavian style."
+        }
+      ],
+      "credit": "Original vector illustration generated for Nivasa (demonstration).",
+      "license": "Project-original artwork; reuse under the repository licence.",
+      "demo": true,
+      "featured": false,
+      "added": "2026-10-10",
+      "popularity": 5
+    }
+  ]
+}

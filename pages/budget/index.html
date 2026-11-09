@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en-IN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="app-root" content="../../" />
+    <meta name="theme-color" content="#faf7f2" />
+    <meta name="description" content="Plan an indicative interior budget in Indian rupees with clear assumptions." />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <title>Budget planner · Nivasa</title>
+  </head>
+  <body data-page="budget">
+    <main id="main" tabindex="-1">
+      <div class="container page-head">
+        <p class="eyebrow">Budget planner</p>
+        <h1>Plan an indicative budget</h1>
+        <p class="lede">A planning range in rupees for your city, rooms and finish level. It is an illustrative model, not a quotation.</p>
+      </div>
+      <div class="container split">
+        <form id="budget-form" class="card" novalidate>
+          <ol class="steps" id="budget-steps" aria-label="Planner steps"></ol>
+          <div id="budget-step-body" style="margin-top:24px"></div>
+          <div class="cluster" style="margin-top:24px;justify-content:space-between">
+            <button type="button" class="btn" id="b-prev"><i data-icon="chevron-left"></i> Back</button>
+            <button type="button" class="btn btn--primary" id="b-next">Next <i data-icon="chevron-right"></i></button>
+          </div>
+        </form>
+        <aside class="sticky-col" aria-labelledby="result-title">
+          <div class="card budget-result" id="budget-result"></div>
+        </aside>
+      </div>
+      <div class="accessory" id="budget-accessory" hidden aria-hidden="true"></div>
+      <noscript><div class="container"><p class="callout">This app needs JavaScript to search, filter and save designs.</p></div></noscript>
+    </main>
+    <script type="module" src="/src/js/pages/budget.js"></script>
+  </body>
+</html>
